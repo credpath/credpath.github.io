@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I graduated from Fordham University in 2017 with a BSc in Mathematics and Economics. I'm currently at PhD student at UC San Diego. 
+I am an Economics PhD Student at the University of California, San Diego. My research interests are in applied micro/metrics, in particular economics of the household, health, education, and crime.
