@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* BSc in Mathematics and, with Honors, in Economics, Fordham University, 2017   <it> summa cum laude <it>
+* BSc in Mathematics and, with Honors, in Economics, Fordham University, 2017   *summa cum laude*
 * MA in Economics, UC San Diego, 2019
 * CPhil in Economics, UC San Diego, 2021
 * PhD in Economics, UC San Diego, 2023 (expected)
