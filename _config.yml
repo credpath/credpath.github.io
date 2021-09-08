@@ -73,9 +73,22 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-ETHYTJJZ7N"
+    
+    
+# This is provided by google, but doesn't work for this page type
+# <!-- Global site tag (gtag.js) - Google Analytics -->
+# <script async src="https://www.googletagmanager.com/gtag/js?id=G-ETHYTJJZ7N"></script>
+# <script>
+#   window.dataLayer = window.dataLayer || [];
+#   function gtag(){dataLayer.push(arguments);}
+#   gtag('js', new Date());
+# 
+#   gtag('config', 'G-ETHYTJJZ7N');
+# </script>
+
 
 
 # Site Author
@@ -301,17 +314,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
-# Google Analytics Tracker
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ETHYTJJZ7N"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-ETHYTJJZ7N');
-</script>
 
 # HTML Compression
 # - http://jch.penibelst.de/
