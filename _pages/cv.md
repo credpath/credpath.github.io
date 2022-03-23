@@ -12,19 +12,19 @@ redirect_from:
 Education
 ======
 
-University of California, San Diego
-La Jolla, CA
-* PhD in Economics, UC San Diego, 2023 (expected)
-* CPhil in Economics, UC San Diego, 2021
-* MA in Economics, UC San Diego, 2019
-* Fields: Applied Microeconomics, Labor Economics
-* Interests: Economics of the Household, Crime Economics, and Health Economics
-* Committee: Julie Cullen (chair), Tom Vogl, Eli Berman, David Arnold,
+University of California, San Diego<br>
+*La Jolla, CA*
+PhD Economics - 2023 (expected)
+CPhil Economics - 2021
+MA Economics - 2019
+Fields: Applied Microeconomics, Labor Economics
+Interests: Economics of the Household, Crime Economics, and Health Economics
+Committee: [Julie Cullen](https://econweb.ucsd.edu/~jbcullen/) (chair), [Tom Vogl](http://tomvogl.com/), Eli Berman, David Arnold,
 Claire Adida
 
-Fordham University
-New York, NY
-* BSc in Mathematics and, with Honors, in Economics, Fordham University, 2017   *summa cum laude*
+Fordham University<br>
+*New York, NY*
+BSc in Mathematics and, with Honors, in Economics *summa cum laude* - 2017
                                 
 <!-- Work experience                                    -->                                            
 <!-- ======                                             -->                   
