@@ -54,21 +54,21 @@ ECON 3    Principles of Macroeconomics (Summer 2021)<br>
 *Teaching Assistant* September 2018-present <br>
 *Reader* September 2017-June 2018 <br>
 UC San Diego, La Jolla, CA<br>
-ECON 172B Operations Research (Spring 2022)<br>
-ECON 120C Econometrics (Winter 2022)<br>
-ECON 121  Applied Econometrics (Fall 2021)<br>
-ECON 121  Applied Econometrics (Spring 2021)<br>
-ECON 172B Operations Research (Winter 2021)<br>
-ECON 171  Decision Under Uncertainty (Fall 2020)<br>
-ECON 3    Principles of Macroeconomics (Summer 2020)<br>
-ECON 121  Applied Econometrics (Winter 2020)<br>
-ECON 172A Operations Research (Fall 2019)<br>
-ECON 110A Macroeconomics (Spring 2019)<br>
-ECON 172A Operations Research (Winter 2019)<br>
-ECON 120A Econometrics (Fall 2018)<br>
-ECON 178  Economics & Business Forecasting (Spring 2018)<br>
-ECON 172A Operations Research (Winter 2018)<br>
-ECON 171  Decisions Under Uncertainty (Fall 2017)<br>
+ECON 172B | Operations Research (Spring 2022)<br>
+ECON 120C | Econometrics (Winter 2022)<br>
+ECON 121  | Applied Econometrics (Fall 2021)<br>
+ECON 121  | Applied Econometrics (Spring 2021)<br>
+ECON 172B | Operations Research (Winter 2021)<br>
+ECON 171  | Decision Under Uncertainty (Fall 2020)<br>
+ECON 3    | Principles of Macroeconomics (Summer 2020)<br>
+ECON 121  | Applied Econometrics (Winter 2020)<br>
+ECON 172A | Operations Research (Fall 2019)<br>
+ECON 110A | Macroeconomics (Spring 2019)<br>
+ECON 172A | Operations Research (Winter 2019)<br>
+ECON 120A | Econometrics (Fall 2018)<br>
+ECON 178  | Economics & Business Forecasting (Spring 2018)<br>
+ECON 172A | Operations Research (Winter 2018)<br>
+ECON 171  | Decisions Under Uncertainty (Fall 2017)<br>
 <br>
 *Tutor & Grader*<br>
 Fordham University, New York, NY<br>
