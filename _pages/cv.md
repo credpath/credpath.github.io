@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -54,7 +54,7 @@ ECON 121  | Applied Econometrics             | Summer 2022
 ECON 3    | Principles of Macroeconomics     | Summer 2021
  
 
-*Teaching Assistant* September 2018-present <br>
+*Teaching Assistant* U+0009 September 2018-present <br>
 *Reader* September 2017-June 2018 <br>
 UC San Diego, La Jolla, CA<br>
  Course   | Title | Quarter 
