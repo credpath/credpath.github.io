@@ -51,7 +51,7 @@ UC San Diego, La Jolla, CA<br>
 ECON 121  Applied Econometrics (Summer 2022)<br>
 ECON 3    Principles of Macroeconomics (Summer 2021)<br>
 <br>
-*Teaching Assistant* [September 2018-present]{style="float:right"}  <br>
+*Teaching Assistant* <span style="float:right;">September 2018-present</span> <br>
 *Reader* September 2017-June 2018 <br>
 UC San Diego, La Jolla, CA<br>
  Course   | Title | Quarter 
