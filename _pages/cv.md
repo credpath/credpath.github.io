@@ -54,8 +54,7 @@ ECON 121  | Applied Econometrics             | Summer 2022
 ECON 3    | Principles of Macroeconomics     | Summer 2021
  
 
-*Teaching Assistant* U+0009 September 2018-present <br>
-*Reader* September 2017-June 2018 <br>
+*Teaching Assistant* <br>
 UC San Diego, La Jolla, CA<br>
  Course   | Title | Quarter 
  -------- | -------------------------------- | -----------  
@@ -71,6 +70,12 @@ ECON 172A | Operations Research              | Fall 2019
 ECON 110A | Macroeconomics                   | Spring 2019
 ECON 172A | Operations Research              | Winter 2019
 ECON 120A | Econometrics                     | Fall 2018  
+
+
+*Reader* <br>
+UC San Diego, La Jolla, CA<br>
+ Course   | Title | Quarter 
+ -------- | -------------------------------- | ----------- 
 ECON 178  | Economics & Business Forecasting | Spring 2018
 ECON 172A | Operations Research              | Winter 2018
 ECON 171  | Decisions Under Uncertainty      | Fall 2017  
@@ -109,30 +114,31 @@ Research Experience
 ======
 
 *Research Assistant*<br>
-Center for Health Economics & Policy Studies (CHEPS)<br>
-San Diego State University (SDSU), San Diego, CA April 2020 - July 2020<br>
+April 2020 - July 2020 <br>
+Center for Health Economics & Policy Studies ([CHEPS](https://cheps.sdsu.edu/))<br>
+San Diego State University (SDSU), San Diego, CA <br>
 
 
 *Graduate Research Fellow*<br>
 UC San Diego, La Jolla, CA<br>
-Supervised by Julian Betts June 2019 - September 2019<br>
-Supervised by James Hamilton June 2018 - September 2018<br>
+Supervised by [Julian Betts](https://econweb.ucsd.edu/~jbetts/) (Summer 2019) <br>
+Supervised by [James Hamilton](https://econweb.ucsd.edu/~jhamilton/) (Summer 2018) <br>
 
 
 Academic Service
 ======
 
 Organizer/Coordinator, 3rd Year Applied Group Seminar (2019-2020)<br>
-Member, Search Committee for the Dean of Rady SOM (2019)<br>
+Member, Search Committee for the Dean of Rady School of Management (2019)<br>
 Representative, Graduate and Professional Student Association (2018-2019)<br>
 
 
 Fellowships
 ======
 
-Graduate Student Research Fellowship, UCSD Econ - $4 000 (2019)<br>
-Graduate Student Research Fellowship, UCSD Econ - $4 000 (2018)<br>
-Regents Fellowship, UCSD - $13 000 (2017 - 2018)<br>
+Graduate Student Research Fellowship, UCSD Econ - \$4 000 (2019)<br>
+Graduate Student Research Fellowship, UCSD Econ - \$4 000 (2018)<br>
+Regents Fellowship, UCSD - \$13 000 (2017 - 2018)<br>
 
 
 Other Information
