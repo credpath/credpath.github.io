@@ -54,8 +54,8 @@ ECON 3    Principles of Macroeconomics (Summer 2021)<br>
 *Teaching Assistant* September 2018-present <br>
 *Reader* September 2017-June 2018 <br>
 UC San Diego, La Jolla, CA<br>
- | |
- -------- | -------------------------------- | --------------
+ | | <br>
+ -------- | -------------------------------- | -------------- <br>
 ECON 172B | Operations Research              |  (Spring 2022) <br>
 ECON 120C | Econometrics                     |  (Winter 2022) <br>
 ECON 121  | Applied Econometrics             |  (Fall 2021)   <br>
