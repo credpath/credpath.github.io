@@ -99,9 +99,10 @@ author:
   location         : "San Diego, California"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=kg6ZjcIAAAAJ&hl"
   email            :  "credpath@ucsd.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  ideasrepec       : "https://ideas.repec.org/f/pre607.html"
   uri              :
   bitbucket        :
   codepen          :
