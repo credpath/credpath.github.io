@@ -19,7 +19,7 @@ CPhil Economics - 2021<br>
 MA Economics - 2019<br>
 Fields: Labor Economics, Public Economics, Political Economy<br>
 Interests: Economics of the Household, Crime Economics, and Health Economics<br>
-Committee: [Julie Cullen](https://econweb.ucsd.edu/~jbcullen/) (chair), [Tom Vogl](http://tomvogl.com/) (@tvogl), [Eli Berman](https://econweb.ucsd.edu/~elib/), [David Arnold](https://sites.google.com/site/davidhallarnold), [Claire Adida](https://claire.adida.net/) <br>
+Committee: [Julie Cullen](https://econweb.ucsd.edu/~jbcullen/) (chair), [Tom Vogl](http://tomvogl.com/) ( @tvogl ), [Eli Berman](https://econweb.ucsd.edu/~elib/), [David Arnold](https://sites.google.com/site/davidhallarnold), [Claire Adida](https://claire.adida.net/) <br>
 
 Fordham University<br>
 *New York, NY*<br>
