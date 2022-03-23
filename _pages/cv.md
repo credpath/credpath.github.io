@@ -99,14 +99,14 @@ Name | Location | Year
 -------------------------------------------------- | ------------ | ----
 WEAI Annual Meeting                                | Portland     | 2022
 PAA Annual Meeting (poster)                        | virtual      |
-Economic Demography Workshop                       | virtual      |
-Vanderbilt LGBT Policy Lab                         | Nashville    |
+[Economic Demography Workshop](https://sites.google.com/view/economicdemographyworkshop)                       | virtual      |
+[Vanderbilt LGBT Policy Lab](https://www.vanderbilt.edu/lgbt-policy-lab/)                         | Nashville    |
 AEA/ASSA Annual Meeting                            | virtual      |
 UCSD Applied Lunch (x2)                            | San Diego    |
-Economics Graduate Student Conference              | St Louis     | 2021
-All-California Labor Economics Conference (poster) | virtual      |
+[Economics Graduate Student Conference](https://sites.wustl.edu/egsc/)              | St Louis     | 2021
+[All-California Labor Economics Conference](https://sites.uci.edu/aclec2021/) (poster) | virtual      |
 UCSD Applied Lunch (x3)                            | San Diego    |
-CSQIEP Seminar Series                              | virtual      | 2020
+[CSQIEP Seminar Series](https://www.aeaweb.org/about-aea/committees/aealgbtq/virtual-seminars)                              | virtual      | 2020
 UCSD Applied Lunch                                 | San Diego    |
 
 
