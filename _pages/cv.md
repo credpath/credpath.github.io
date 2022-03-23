@@ -51,7 +51,7 @@ UC San Diego, La Jolla, CA<br>
 ECON 121  Applied Econometrics (Summer 2022)<br>
 ECON 3    Principles of Macroeconomics (Summer 2021)<br>
 <br>
-*Teaching Assistant* September 2018-present <br>
+*Teaching Assistant* [September 2018-present]{style="float:right"}  <br>
 *Reader* September 2017-June 2018 <br>
 UC San Diego, La Jolla, CA<br>
  Course   | Title | Quarter 
@@ -72,7 +72,7 @@ ECON 178  | Economics & Business Forecasting |  (Spring 2018)
 ECON 172A | Operations Research              |  (Winter 2018) 
 ECON 171  | Decisions Under Uncertainty      |  (Fall 2017)   
 <br>
-*Tutor & Grader*<br>
+*Tutor \& Grader*<br>
 Fordham University, New York, NY<br>
 MATH 2001 Linear Algebra I (Spring 2017)<br>
 MATH 1206 Calculus I (Spring 2017)<br>
