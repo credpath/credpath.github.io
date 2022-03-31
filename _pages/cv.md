@@ -113,13 +113,13 @@ UCSD Applied Lunch                                 | San Diego    |
 Research Experience
 ======
 
-*Research Assistant*<br>
+*Graduate Student Researcher*<br>
 April 2020 - July 2020 <br>
 Center for Health Economics & Policy Studies ([CHEPS](https://cheps.sdsu.edu/))<br>
 San Diego State University (SDSU), San Diego, CA <br>
 
 
-*Graduate Research Fellow*<br>
+*Research Fellowship*<br>
 UC San Diego, La Jolla, CA<br>
 Supervised by [Julian Betts](https://econweb.ucsd.edu/~jbetts/) (Summer 2019) <br>
 Supervised by [James Hamilton](https://econweb.ucsd.edu/~jhamilton/) (Summer 2018) <br>
