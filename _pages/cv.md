@@ -100,7 +100,7 @@ Name | Location | Year
 WEAI Annual Meeting                                | Portland     | 2022
 PAA Annual Meeting (poster)                        | virtual      |
 [Economic Demography Workshop](https://sites.google.com/view/economicdemographyworkshop)                       | virtual      |
-[Vanderbilt LGBT Policy Lab](https://www.vanderbilt.edu/lgbt-policy-lab/)                         | Nashville    |
+Vanderbilt Empirical and Applied Microeconomics (VEAM) | Nashville    |
 AEA/ASSA Annual Meeting                            | virtual      |
 UCSD Applied Lunch (x2)                            | San Diego    |
 [Economics Graduate Student Conference](https://sites.wustl.edu/egsc/)              | St Louis     | 2021
