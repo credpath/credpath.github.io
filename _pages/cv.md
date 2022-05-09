@@ -139,10 +139,11 @@ Representative, Graduate and Professional Student Association (2018-2019)<br>
 
 Fellowships
 ======
-
-Graduate Student Research Fellowship, UCSD Econ - &#36;\$4 000 (2019)<br>
-Graduate Student Research Fellowship, UCSD Econ - &#36;\$4 000 (2018)<br>
-Regents Fellowship, UCSD - &#36;13 000 (2017 - 2018)<br>
+<p>
+Graduate Student Research Fellowship, UCSD Econ - $4 000 (2019)<br>
+Graduate Student Research Fellowship, UCSD Econ - $4 000 (2018)<br>
+Regents Fellowship, UCSD -$13 000 (2017 - 2018)<br>
+</p>
 
 
 Other Information
