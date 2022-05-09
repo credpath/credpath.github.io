@@ -29,7 +29,7 @@ BSc in Mathematics and, with Honors, in Economics *summa cum laude* - 2017<br>
 Skills
 ======
       
-Stata, R, Quanteda, LaTeX
+Stata, R, Quanteda, LaTeX, Git
 
 
 Working Papers
