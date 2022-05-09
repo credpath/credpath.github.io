@@ -48,14 +48,16 @@ Teaching Experience
 
 *Instructor of Record*<br>
 UC San Diego, La Jolla, CA<br>
- Course   | Title | Quarter 
- -------- | -------------------------------- | -------------- 
+
+Course    | Title | Quarter 
+--------  | -------------------------------- | -------------- 
 ECON 121  | Applied Econometrics             | Summer 2022
 ECON 3    | Principles of Macroeconomics     | Summer 2021
  
 
 *Teaching Assistant* <br>
 UC San Diego, La Jolla, CA<br>
+
  Course   | Title | Quarter 
  -------- | -------------------------------- | -----------  
 ECON 172B | Operations Research              | Spring 2022
@@ -74,6 +76,7 @@ ECON 120A | Econometrics                     | Fall 2018
 
 *Reader* <br>
 UC San Diego, La Jolla, CA<br>
+
  Course   | Title | Quarter 
  -------- | -------------------------------- | ----------- 
 ECON 178  | Economics & Business Forecasting | Spring 2018
@@ -83,6 +86,7 @@ ECON 171  | Decisions Under Uncertainty      | Fall 2017
 
 *Tutor and Grader*<br>
 Fordham University, New York, NY<br>
+
  Course   | Title | Semester 
  -------- | ----------------- | -----------
 MATH 2001 | Linear Algebra I  | Spring 2017
