@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Placement Director &nbsp;&nbsp;&emsp;&emsp; Jim Andreoni  &nbsp;&emsp; (858) 952-6183 &emsp; andreoni@ucsd.edu <br>
-Placement Coodinator                 &emsp; Andrew Flores       &emsp; (858) 534-1058 &emsp; aflores@ucsd.edu  <br>
+Placement Director &nbsp;&nbsp;&emsp;&emsp; Jim Andreoni  &nbsp;&emsp; (858) 952-6183 &emsp; [andreoni@ucsd.edu](mailto:andreoni@ucsd.edu) <br>
+Placement Coodinator                 &emsp; Andrew Flores       &emsp; (858) 534-1058 &emsp; [aflores@ucsd.edu ](mailto:aflores@ucsd.edu ) <br>
 
 Contact Information 
 ======
@@ -75,10 +75,16 @@ Stata, R, Quanteda, LaTeX, Git
 Working Papers
 ======
 
-[Spousal Visas and Couple Formation: Evidence from the End of the Defense Of Marriage Act](https://osf.io/preprints/socarxiv/mzuwe/
+[“Spousal Visas and Couple Formation: Evidence from the End of the Defense Of Marriage Act”](https://osf.io/preprints/socarxiv/mzuwe/
 ) <br>
 
-Race-Predictive Language in Police Reporting (with [Romaine Campbell](https://economics.harvard.edu/people/romaine-campbell))<br>
+***Abstract:** Marital decisions determine the distribution of family characteristics. Spousal visa policy permits non-residents to marry citizens. I ask how this policy affects coupling rates, marriage rates, and assortative mating by citizenship. When the Supreme Court ended the Defense of Marriage Act, same-sex couples gained access to spousal visas for the first time. I estimate the effect of this policy change for mixed-citizenship same-sex couples, accounting for aggregate changes in other same-sex and mixed-citizenship couples, using a triple difference design. Spousal visa access causes a 36% increase in coupling rates and a 78% increase in marriage rates. Transfer benefits, health insurance, roommates, moving, fraud, or state-level heterogeneity do not explain the results. Informal calculations suggest 1.5 million people are currently together directly thanks to spousal visa policy.*<br>
+
+
+“Race-Predictive Language in Police Reporting” (with [Romaine Campbell](https://economics.harvard.edu/people/romaine-campbell))<br>
+
+***Abstract:** We ask if police officers' use of adjectives and adverbs systematically differs by suspect race, if officers with more race-predictive language have different 911 call dispatch outcomes in Black compared with White neighborhoods, and if race-predictive language relates to other officer characteristics. We leverage a novel data set containing police report text. We identify race-predictive language using an elastic net with word counts, then use predicted race to construct an officer-level measure of race-predictive language. We find evidence that officers with greater race-predictive language are more likely to assist and less likely to arrest in Black relative to White neighborhoods.*<br>
+
 
 Works in Progress
 ======
@@ -87,7 +93,10 @@ Works in Progress
 Publications
 ======
 
-[Risk Aversion, Offsetting Community Effects, and COVID-19: Evidence from an Indoor Political Rally](https://www.nber.org/papers/w27522) (with Dhaval M. Dave, Andrew I. Friedson, Kyutaro Matsuzawa, Drew McNichols, Joseph J. Sabia)<br>
+[“Risk Aversion, Offsetting Community Effects, and COVID-19: Evidence from an Indoor Political Rally](https://www.nber.org/papers/w27522) (with Dhaval M. Dave, Andrew I. Friedson, Kyutaro Matsuzawa, Drew McNichols, Joseph J. Sabia)<br>
+
+***Abstract:** The Centers for Disease Control and Prevention (CDC) deem large indoor gatherings without social distancing the “highest risk” activity for COVID-19 contagion. On June 20, 2020, President Donald J. Trump held his first mass campaign rally following the US coronavirus outbreak at the indoor Bank of Oklahoma arena. In the weeks following the event, numerous high-profile national news outlets reported that the Trump rally was “more than likely” the cause of a coronavirus surge in Tulsa County based on time series data. This study is the first to rigorously explore the impacts of this event on social distancing and COVID-19 spread. First, using data from SafeGraph Inc, we show that while non-resident visits to census block groups hosting the Trump event grew by approximately 25 percent, there was no decline in net stay-at-home behavior in Tulsa County, reflecting important offsetting behavioral effects. Then, using data on COVID-19 cases from the CDC and a synthetic control design, we find little evidence that COVID-19 grew more rapidly in Tulsa County, its border counties, or in the state of Oklahoma than each's estimated counterfactual during the five-week post-treatment period we observe. Difference-in-differences estimates further provide no evidence that COVID-19 rates grew faster in counties that drew relatively larger shares of residents to the event. We conclude that offsetting risk-related behavioral responses to the rally—including voluntary closures of restaurants and bars in downtown Tulsa, increases in stay-at-home behavior, displacement of usual activities of weekend inflows, and smaller-than-expected crowd attendance—may be important mechanisms.*<br>
+
 
 
 Teaching Experience 
