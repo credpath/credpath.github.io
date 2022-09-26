@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Placement Director &nbsp;&emsp;&emsp; Jim Andreoni  &nbsp;&emsp; (858) 952-6183 &emsp; andreoni@ucsd.edu <br>
-Placement Coodinator           &emsp; Andrew Flores &emsp;       (858) 534-1058 &emsp; aflores@ucsd.edu  <br>
+Placement Director &nbsp;&nbsp;&emsp;&emsp; Jim Andreoni  &nbsp;&emsp; (858) 952-6183 &emsp; andreoni@ucsd.edu <br>
+Placement Coodinator                 &emsp; Andrew Flores       &emsp; (858) 534-1058 &emsp; aflores@ucsd.edu  <br>
 
 Contact Information 
 ======
@@ -23,7 +23,8 @@ La Jolla, CA 92093-0508<br>
 Phone: (917) 854-2749<br>
 Fax: (858) 534-7040<br>
 Email: [credpath@ucsd.edu](mailto:credpath@ucsd.edu)<br>
-Website: [https://credpath.github.io/](https://credpath.github.io/)<br>
+Personal Website: [https://credpath.github.io/](https://credpath.github.io/)<br>
+UCSD Website: [https://acsweb.ucsd.edu/~credpath/](https://acsweb.ucsd.edu/~credpath/) <br>
 
 Education
 ======
@@ -62,11 +63,8 @@ Labor Economics, Law & Economics, Public Economics, Political Economy<br>
 Relevant Positions Held
 ======
 
-Fellow in Economics &emsp; 2021-2023 <br>
-Harvard University <br>
-
-Research Assistant &emsp; 2020 <br>
-Center for Health Economics & Policy Studies <br>
+Fellow in Economics, Harvard University, 2021 - 2023 <br>
+Research Assistant, Center for Health Economics & Policy Studies, 2020 <br>
 
 <!--
 Skills
@@ -78,9 +76,9 @@ Working Papers
 ======
 
 [Spousal Visas and Couple Formation: Evidence from the End of the Defense Of Marriage Act](https://osf.io/preprints/socarxiv/mzuwe/
-) (under review)<br>
+) <br>
 
-Race-Predictive Language in Police Reporting (with [Romaine Campbell](https://www.iq.harvard.edu/people/romaine-campbell))<br>
+Race-Predictive Language in Police Reporting (with [Romaine Campbell](https://economics.harvard.edu/people/romaine-campbell))<br>
 
 Works in Progress
 ======
@@ -149,40 +147,73 @@ MATH 2001 | Discreet Math     | Fall 2016
 
 **Tutor** <br>
 
-Setting | Title | Semester 
+Setting | Courses | Semester 
  -------------- | ----------------- | -----------
 One-on-one      | Calculus, Finite Math  | Fall 2016 - Spring 2017
-Math Help Room  | Real Analysis, Linear Algebra, Abstract Algebra, Numerical
-Analysis, Differential Equations, Discrete Math, Calculus, Finite
-Math        | Fall 2016 - Spring 2017
+Math Help Room  | Real Analysis, Linear Algebra, Abstract Algebra, Numerical Analysis, Differential Equations, Discrete Math, Calculus, Finite Math | Fall 2016 - Spring 2017
 
 
 Grants
 ======
 
+&emsp; | Institution | Year
+-------------------------------- | --------- | -----------
+Travel and Research Grant - $400 | UCSD Econ | Spring 2022
+Travel and Research Grant - $255 | UCSD Econ | Winter 2022
+Travel and Research Grant - $500 | UCSD Econ | Fall 2021
+
 
 Honors & Awards
 ======
+
+&emsp; | Institution | Year
+--------------------------------------------- | ------------------ | ---------
+TA Excellence Award                           | UCSD Econ          | 2020-2021
+Graduate Student Research Fellowship - $4 000 | UCSD Econ          | 2019
+Graduate Student Research Fellowship - $4 000 | UCSD Econ          | 2018
+Regents Fellowship - $13 000                  | UCSD               | 2017-2018
+Charles A O'Neil Award                        | Fordham University | 2017
+Dean's List                                   | Fordham University | 2015-2017
 
 
 Professional Activities
 ======
 
+**Seminar Presentations**<br>
+
+Name | Location | Year
+------------------------------------------------------ | ------------ | ----
+Vanderbilt Empirical and Applied Microeconomics (VEAM) | Nashville    | 2022
+UCSD Applied Lunch (x2)                                | San Diego    |
+UCSD Applied Lunch (x3)                                | San Diego    | 2021
+[CSQIEP Seminar Series](https://www.aeaweb.org/about-aea/committees/aealgbtq/virtual-seminars)                              | virtual      | 2020
+UCSD Applied Lunch                                     | San Diego    |
+
+**Conference Presentations**<br>
 Name | Location | Year
 -------------------------------------------------- | ------------ | ----
 WEAI Annual Meeting                                | Portland     | 2022
 PAA Annual Meeting (poster)                        | virtual      |
 [Economic Demography Workshop](https://sites.google.com/view/economicdemographyworkshop)                       | virtual      |
-Vanderbilt Empirical and Applied Microeconomics (VEAM) | Nashville    |
 AEA/ASSA Annual Meeting                            | virtual      |
-UCSD Applied Lunch (x2)                            | San Diego    |
 [Economics Graduate Student Conference](https://sites.wustl.edu/egsc/)              | St Louis     | 2021
 [All-California Labor Economics Conference](https://sites.uci.edu/aclec2021/) (poster) | virtual      |
-UCSD Applied Lunch (x3)                            | San Diego    |
-[CSQIEP Seminar Series](https://www.aeaweb.org/about-aea/committees/aealgbtq/virtual-seminars)                              | virtual      | 2020
-UCSD Applied Lunch                                 | San Diego    |
+
+**Conference Discussant**<br>
+Name | Location | Year
+-------------------------------------------------- | ------------ | ----
+WEAI Annual Meeting                                | Portland     | 2022
+
+**Referee Service**<br>
+*Review of Economics of the Household*, *Scientific Reports*<br>
+
+**Other Service**<br>
+Organizer, 3rd Year Applied Group Seminar, 2019-2020<br>
+Member, Search Committee for the Dean of Rady School of Management, 2019<br>
+Representative, Graduate and Professional Student Association, 2018-2019<br>
 
 
+<!--
 Research Experience
 ======
 
@@ -212,11 +243,16 @@ Fellowships
 Graduate Student Research Fellowship, UCSD Econ - &#65284;4 000 (2019)<br>
 Graduate Student Research Fellowship, UCSD Econ - &#65284;4 000 (2018)<br>
 Regents Fellowship, UCSD -$13 000 (2017 - 2018)<br>
-
+-->
 
 
 Other Information
 ======
 
 Citizenship: United States, Canada<br>
-Languages: English (Native Speaker), French (Advanced), Lithuanian (Beginner)
+Languages: English (Native Speaker), French (Advanced), Lithuanian (Beginner), Russian (Beginner)<br>
+Skills: Stata, R, quanteda, spacyr, Latex, Beamer, Git<br>
+Hobbies: Running, Swimming, Cycling, Balletomane<br>
+Professional Classical Ballet Dancer:<br>
+&emsp;&emsp;Lietuvos Nacionalinis Operos ir Baleto Teatras, Vilnius, 2013-2015<br>
+&emsp;&emsp;Cincinnati Ballet, Cincinnati, 2012-2013
