@@ -189,7 +189,9 @@ UCSD Applied Lunch (x3)                                | San Diego    | 2021
 [CSQIEP Seminar Series](https://www.aeaweb.org/about-aea/committees/aealgbtq/virtual-seminars)                              | virtual      | 2020
 UCSD Applied Lunch                                     | San Diego    |
 
+
 **Conference Presentations**<br>
+
 Name | Location | Year
 -------------------------------------------------- | ------------ | ----
 WEAI Annual Meeting                                | Portland     | 2022
@@ -199,10 +201,13 @@ AEA/ASSA Annual Meeting                            | virtual      |
 [Economics Graduate Student Conference](https://sites.wustl.edu/egsc/)              | St Louis     | 2021
 [All-California Labor Economics Conference](https://sites.uci.edu/aclec2021/) (poster) | virtual      |
 
+
 **Conference Discussant**<br>
+
 Name | Location | Year
 -------------------------------------------------- | ------------ | ----
 WEAI Annual Meeting                                | Portland     | 2022
+
 
 **Referee Service**<br>
 *Review of Economics of the Household*, *Scientific Reports*<br>
