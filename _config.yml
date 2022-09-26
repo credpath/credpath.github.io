@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Connor Redpath"
 title_separator          : "-"
 name                     : &name "Connor Redpath"
-description              : &description "This is my academic website."
+description              : &description "This is my personal academic website."
 url                      : https://credpath.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "credpath.github.io"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Connor Redpath"
   avatar           : "IMG-4161.jpg"
-  bio              : "I am PhD Candidate in Economics at UC San Diego."
+  bio              : "I am PhD Candidate in Economics at UC San Diego, on the job market."
   location         : "San Diego, California"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -116,7 +116,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/connor-redpath-857690105/"
   orcid            : "https://orcid.org/0000-0001-9424-9584"
   pinterest        :
   soundcloud       :
