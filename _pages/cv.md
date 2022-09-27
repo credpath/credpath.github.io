@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Placement Director &nbsp;&nbsp;&emsp;&emsp; Jim Andreoni  &nbsp;&emsp; (858) 952-6183 &emsp; [andreoni@ucsd.edu](mailto:andreoni@ucsd.edu) <br>
-Placement Coodinator                 &emsp; Andrew Flores       &emsp; (858) 534-1058 &emsp; [aflores@ucsd.edu ](mailto:aflores@ucsd.edu ) <br>
+[Curriculum Vitae pdf](https://credpath.github.io/files/Redpath_CV.pdf)
+
 
 Contact Information 
 ======
@@ -25,6 +25,10 @@ Fax: (858) 534-7040<br>
 Email: [credpath@ucsd.edu](mailto:credpath@ucsd.edu)<br>
 Personal Website: [https://credpath.github.io/](https://credpath.github.io/)<br>
 UCSD Website: [https://acsweb.ucsd.edu/~credpath/](https://acsweb.ucsd.edu/~credpath/) <br>
+<br>
+Placement Director &nbsp;&nbsp;&emsp;&emsp; Jim Andreoni  &nbsp;&emsp; (858) 952-6183 &emsp; [andreoni@ucsd.edu](mailto:andreoni@ucsd.edu) <br>
+Placement Coodinator                 &emsp; Andrew Flores       &emsp; (858) 534-1058 &emsp; [aflores@ucsd.edu ](mailto:aflores@ucsd.edu ) <br>
+
 
 Education
 ======
