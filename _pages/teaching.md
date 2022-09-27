@@ -67,8 +67,8 @@ ECON 3    | Principles of Macroeconomics         | Summer 2021 | [Evaluation](ht
  -------- | ------------------------------------ | -------- | ----------- | ------------
 ECON 172B | Operations Research                  | Newhouse | Spring 2022 | 
 ECON 120C | Econometrics                         | Wüthrich | Winter 2022 | 
-ECON 121  | Applied Econometrics & Data Analysis | Vogl     | Fall 2021   | [Evaluation](https://credpath.github.io/files/Redpath_Connor_Student_IA_Evaluation_-_ECON_121_-_Applied_Econometrics_&_Data_[A00]_(Vogl_Tom_Saul)_-_FA21)
-ECON 121  | Applied Econometrics & Data Analysis | Vogl     | Spring 2021 | [Evaluation](https://credpath.github.io/files/Redpath_Connor_Student_IA_Evaluation_-_ECON_121_-_Applied_Econometrics_&_Data_[B00]_(Vogl_Tom_Saul)_-_SP21)
+ECON 121  | Applied Econometrics & Data Analysis | Vogl     | Fall 2021   | [Evaluation](https://credpath.github.io/files/Redpath_Connor_Student_IA_Evaluation_-_ECON_121_-_Applied_Econometrics_&_Data_[A00]_(Vogl_Tom_Saul)_-_FA21.pdf)
+ECON 121  | Applied Econometrics & Data Analysis | Vogl     | Spring 2021 | [Evaluation](https://credpath.github.io/files/Redpath_Connor_Student_IA_Evaluation_-_ECON_121_-_Applied_Econometrics_&_Data_[B00]_(Vogl_Tom_Saul)_-_SP21.pdf)
 ECON 172B | Operations Research                  | Berg     | Winter 2021 | 
 ECON 171  | Decision Under Uncertainty           | Newhouse | Fall 2020   | 
 ECON 3    | Principles of Macroeconomics         | Howden   | Summer 2020 | 
