@@ -11,7 +11,7 @@ author_profile: true
 Research Statement 
 ======
 
-&mnsp;[Research Statement pdf](https://credpath.github.io/files/Redpath_Research_Statement.pdf)
+&emsp;[Research Statement pdf](https://credpath.github.io/files/Redpath_Research_Statement.pdf)
 
 <details>
 
