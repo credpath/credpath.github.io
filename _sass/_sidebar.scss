@@ -15,7 +15,7 @@
 
   @include breakpoint($large) {
     @include span(2 of 12);
-    opacity: 1;
+    opacity: 0.75; /* This used to be 1. Making it 0.75 makes it less transparent when the mouse does not hover over the sidebar. */
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
 
