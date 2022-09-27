@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+<br><br><br>
+
+
 Statement 
 ======
 
@@ -25,7 +28,7 @@ I am an applied economist. I use modern econometric methods to answer empirical,
 	</ul>
 In the future, I will continue researching issues of great social and policy relevance. <br> <br>
 
-### Economics of the Household<br>
+<b>Economics of the Household</b><br>
 
 Recent legal, social, and demographic changes make marriage and cohabitation increasingly distinct and give same-sex couples the right to marry. These changes provide policy variation that lends itself to answering causal questions about marriage policy. Along with the popularity of marriage, the importance of child-rearing, and household decision-making, these changes also affirm the importance of continued research on the topic of marriage.<br> <br>
 
@@ -39,7 +42,7 @@ Legalizing same-sex marriage provides fertile ground for promising empirical res
 
 My research adds to the contemporary marriage literature that recognizes the distinction between cohabitation and the legal marriage contract. Underappreciating this distinction can confuse analyses of marriage. My research also reframes the experiences of the LGBTQ+ population. In addition to understanding this understudied population, we can learn about significant policies that impact everyone. <br> <br>
 
-### Economics of Crime and Policing<br>
+<b>Economics of Crime and Policing</b><br>
 
 Policing is a substantial expense for municipalities, and there is growing concern regarding the outcomes of policing. Heated public debate over crime and policing demonstrates the urgent need for research on these topics. <br> <br>
 
@@ -53,7 +56,7 @@ In work-in-progress, we use these administrative data to estimate the effect of 
 
 Our research contributes to a growing literature on policing. We hope to provide much-needed evidence on effective policing to help policy-makers find appropriate solutions to pressing problems.<br> <br>
 
-### Future Directions<br>
+<b>Future Directions</b><br>
 
 I plan to further develop my text analysis skills in future research projects. These methods are increasingly popular in social science and develop our econometric toolkit to tap into the world of text. I am also grateful for the new difference-in-differences literature clarifying how to implement staggered treatment designs. These designs fit many meaningful contexts. I plan to continue to employ these and other methods to estimate credible causal effects of meaningful policies.<br>
 
