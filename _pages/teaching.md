@@ -18,9 +18,7 @@ Teaching Statement
 
 <details>
 
-<summary>
-Teaching Statement text
-</summary>
+<summary>Teaching Statement text</summary>
 
 <br>
 
