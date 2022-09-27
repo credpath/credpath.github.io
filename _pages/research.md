@@ -13,7 +13,7 @@ author_profile: true
 Statement 
 ======
 
-[Research Statement pdf](https://credpath.github.io/files/Redpath_Research_Statement.pdf)
+&ensp;[Research Statement pdf](https://credpath.github.io/files/Redpath_Research_Statement.pdf)
 
 <details>
   
