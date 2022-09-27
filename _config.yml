@@ -81,15 +81,16 @@ analytics:
     
     
 # This is provided by google, but doesn't work for this page type
-# <!-- Global site tag (gtag.js) - Google Analytics -->
-# <script async src="https://www.googletagmanager.com/gtag/js?id=G-ETHYTJJZ7N"></script>
-# <script>
-#   window.dataLayer = window.dataLayer || [];
-#   function gtag(){dataLayer.push(arguments);}
-#   gtag('js', new Date());
-# 
-#   gtag('config', 'G-ETHYTJJZ7N');
-# </script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QN5D0J2686"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QN5D0J2686');
+</script>
+
 
 
 
