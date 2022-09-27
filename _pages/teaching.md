@@ -8,8 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-<br><br><br>
-
 
 Teaching Statement
 =====
