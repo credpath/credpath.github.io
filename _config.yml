@@ -73,9 +73,11 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "G-ETHYTJJZ7N"
+    tracking_id          : "G-QN5D0J2686"
+    anonymize_ip         : false # default
+#    tracking_id          : "G-ETHYTJJZ7N"
     
     
 # This is provided by google, but doesn't work for this page type
