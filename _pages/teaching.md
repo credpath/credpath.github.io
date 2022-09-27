@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 
@@ -11,18 +11,18 @@ author_profile: true
 <br><br><br>
 
 
-Statement
+Teaching Statement
 =====
 
-&ensp;[Teaching Statement pdf](https://credpath.github.io/files/Redpath_Teaching_Statement.pdf)
+&emsp;[Teaching Statement pdf](https://credpath.github.io/files/Redpath_Teaching_Statement.pdf)
 
 <details>
- 
- <summary>
-  Teaching Statement text
- </summary>
- 
- <br>
+
+<summary>
+Teaching Statement text
+</summary>
+
+<br>
 
 I enjoy teaching. So I worked to become an outstanding TA. During my first time TAing, I did not quite live up to my standards. Nevertheless, I later won a TA Excellence award from the economics department. After years of TAing and preparatory coursework, I was ready to be an Instructor. I taught an intro-level course, <i>Principles of Macroeconomics</i>, and an upper-level elective, <i>Applied Econometrics & Data Analysis</i>. I found the experiences at times exhausting and thrilling. The students were pleased too: my approval ratings were 95% and 100%, respectively. <br> <br>
 
