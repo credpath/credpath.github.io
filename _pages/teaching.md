@@ -8,11 +8,13 @@ author_profile: true
 
 {% include base_path %}
 
+<br><br><br>
+
 
 Statement
 =====
 
-[Teaching Statement pdf](https://credpath.github.io/files/Redpath_Teaching_Statement.pdf)
+&ensp;[Teaching Statement pdf](https://credpath.github.io/files/Redpath_Teaching_Statement.pdf)
 
 <details>
  
