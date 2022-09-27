@@ -1,26 +1,24 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<br><br><br>
 
-
-Statement 
+Research Statement 
 ======
 
-&ensp;[Research Statement pdf](https://credpath.github.io/files/Redpath_Research_Statement.pdf)
+&mnsp;[Research Statement pdf](https://credpath.github.io/files/Redpath_Research_Statement.pdf)
 
 <details>
-  
-  <summary>Research Statement text</summary> 
 
-  <br>
-  
+<summary>Research Statement text</summary>
+
+<br>
+
 I am an applied economist. I use modern econometric methods to answer empirical, policy-relevant, thought-provoking questions. My research to date studies two broad questions: 
   <ul type="circle"> 
     <li> How does marriage policy affect coupling? </li>
