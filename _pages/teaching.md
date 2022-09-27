@@ -49,7 +49,7 @@ I am committed to teaching. My experiences as an Instructor of Record, student e
  <br>
 
 
-Teaching Experience 
+Experience 
 ======
 
 *University of California, San Diego<br>
