@@ -12,11 +12,11 @@ author_profile: true
 Teaching Statement
 =====
 
-&emsp;[Teaching Statement pdf](https://credpath.github.io/files/Redpath_Teaching_Statement.pdf)
+&emsp;Click to view my [Teaching Statement as a pdf](https://credpath.github.io/files/Redpath_Teaching_Statement.pdf).
 
 <details>
 
-<summary>Teaching Statement text</summary>
+<summary>;Click to view my Teaching Statement as text</summary>
 
 <br>
 
