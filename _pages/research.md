@@ -11,11 +11,11 @@ author_profile: true
 Research Statement 
 ======
 
-&emsp;[Research Statement pdf](https://credpath.github.io/files/Redpath_Research_Statement.pdf)
+&emsp;Click to view my [Research Statement as a pdf](https://credpath.github.io/files/Redpath_Research_Statement.pdf).
 
 <details>
 
-<summary>Research Statement text</summary>
+<summary>Click to view my Research Statement as text.</summary>
 
 <br>
 
@@ -69,7 +69,7 @@ Working Papers
 [“Spousal Visas and Couple Formation: Evidence from the End of the Defense Of Marriage Act”](https://osf.io/preprints/socarxiv/mzuwe/
 ) <br>
 
-<b> <i> Abstract: </i> </b> *Marital decisions determine the distribution of family characteristics. Spousal visa policy permits non-residents to marry citizens. I ask how this policy affects coupling rates, marriage rates, and assortative mating by citizenship. When the Supreme Court ended the Defense of Marriage Act, same-sex couples gained access to spousal visas for the first time. I estimate the effect of this policy change for mixed-citizenship same-sex couples, accounting for aggregate changes in other same-sex and mixed-citizenship couples, using a triple difference design. Spousal visa access causes a 36% increase in coupling rates and a 78% increase in marriage rates. Transfer benefits, health insurance, roommates, moving, fraud, or state-level heterogeneity do not explain the results. Informal calculations suggest 1.5 million people are currently together directly thanks to spousal visa policy.* <br>
+<b> <i> Abstract: </i> </b> *Policy can impact partner choice and match quality. Spousal visa policy permits non-residents to marry citizens. I ask how this policy affects coupling rates, marriage rates, and assortative mating by citizenship and birth country. Without immigration policy variation, I identify the effect of spousal visa access by exploiting a change in the federal government's definition of spouse. When the Supreme Court ended the Defense of Marriage Act, same-sex couples gained access to spousal visas for the first time. I estimate the effect of this policy change for mixed-citizenship same-sex couples, accounting for aggregate changes in other same-sex and mixed-citizenship couples, using a triple difference design. Spousal visa access causes a 36\% increase in couple formation rates and a 71\% increase in marriage rates. Transfer benefits, health insurance, roommates, moving, fraud, or state-level heterogeneity do not explain the results. Informal calculations suggest 1.5 million people are currently partnered directly thanks to spousal visa policy.* <br>
 
 
 “Officer Language and Suspect Race: A Text Analysis of Police Reports” (with [Romaine Campbell](https://economics.harvard.edu/people/romaine-campbell))<br>
@@ -86,7 +86,7 @@ Works in Progress
 
 “Body-Worn Cameras and Police Stops” (with [Romaine Campbell](https://economics.harvard.edu/people/romaine-campbell))<br>
 
-<b> <i> Abstract: </i> </b> *We study a police department that was not an early adopter of body-worn cameras and was institutionally unwilling to adopt them with a randomized control trial (RCT). This large urban police department may better reflect an average department than those willing to implement an RCT. We compare dispatches made in broad daylight to those made at night before and after the rollout of body-worn cameras. We find officers' use of force does not change for 911 call dispatches. However, officers use less force for self-dispatches and make fewer self-dispatches.* <br>
+<b> <i> Abstract: </i> </b> *We study the effects of body-worn cameras on officer interactions in a police department that was not an early adopter of body-worn cameras and was institutionally unwilling to adopt them with a randomized control trial (RCT). We hypothesize that this sizeable urban police department may better reflect an average department than early adopters or departments willing to implement an RCT. We compare dispatches made during daylight hours to those made at night before and after the rollout of body-worn cameras. We find that officers use less force during self-dispatched calls and make fewer self-dispatches after the rollout. We do not find changes in officer use of force for 911 call dispatches.* <br>
 
 
 Publications
