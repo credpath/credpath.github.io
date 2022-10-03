@@ -50,19 +50,19 @@ Committee: [Julie Cullen](https://econweb.ucsd.edu/~jbcullen/) (chair), [Tom Vog
 BSc in Mathematics and, with Honors, in Economics *summa cum laude* - 2017<br>
 
 
-References
+References<br>
 ======
 <!-- 
 [Julie Cullen](https://econweb.ucsd.edu/~jbcullen/) &nbsp;&nbsp;  &emsp; [jbcullen@ucsd.edu](mailto:jbcullen@ucsd.edu) &nbsp;             &emsp; (858) 822-2056 <br>
 [Tom Vogl](http://tomvogl.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &emsp; [tvgol@ucsd.edu   ](mailto:tvgol@ucsd.edu   ) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &emsp; (858) 534-4553 <br>
 [David Arnold](https://sites.google.com/site/davidhallarnold)     &emsp; [daarnold@ucsd.edu](mailto:daarnold@ucsd.edu)                    &emsp; (760) 415-0418 <br>
 --->
-Name | Email | Phone
--------------- | ----------------- | -------------- 
-[Julie Cullen](https://econweb.ucsd.edu/~jbcullen/)           | [jbcullen@ucsd.edu](mailto:jbcullen@ucsd.edu) | (858) 822-2056
-[Tom Vogl](http://tomvogl.com/)                               | [tvgol@ucsd.edu   ](mailto:tvgol@ucsd.edu   ) | (858) 534-4553
-[David Arnold](https://sites.google.com/site/davidhallarnold) | [daarnold@ucsd.edu](mailto:daarnold@ucsd.edu) | (760) 415-0418
 
+Name | Email | Phone
+--------------- | ------------------ | --------------- 
+[Julie Cullen](https://econweb.ucsd.edu/~jbcullen/)           | [jbcullen@ucsd.edu](mailto:jbcullen@ucsd.edu) | (858) 822-2056
+[Tom Vogl](http://tomvogl.com/)                               | [tvgol@ucsd.edu](mailto:tvgol@ucsd.edu)       | (858) 534-4553
+[David Arnold](https://sites.google.com/site/davidhallarnold) | [daarnold@ucsd.edu](mailto:daarnold@ucsd.edu) | (760) 415-0418
 
 
 Fields of Interest
@@ -176,7 +176,7 @@ La Jolla, CA*<br>
 **Instructor of Record**<br>
 
 Course    | Title | Quarter 
---------  | ------------------------------------ | -------------- 
+--------- | ------------------------------------ | -------------- 
 ECON 121  | Applied Econometrics & Data Analysis | Summer 2022
 ECON 3    | Principles of Macroeconomics         | Summer 2021
  
@@ -184,7 +184,7 @@ ECON 3    | Principles of Macroeconomics         | Summer 2021
 **Teaching Assistant** <br>
 
  Course   | Title | Professor | Quarter 
- -------- | ------------------------------------ | -------- | -----------  
+--------- | ------------------------------------ | -------- | -----------  
 ECON 172B | Operations Research                  | Newhouse | Spring 2022
 ECON 120C | Econometrics                         | Wüthrich | Winter 2022
 ECON 121  | Applied Econometrics & Data Analysis | Vogl     | Fall 2021  
@@ -202,7 +202,7 @@ ECON 120A | Econometrics                         | Candido  | Fall 2018
 **Reader** <br>
 
  Course   | Title | Professor | Quarter 
- -------- | -------------------------------- | -------- | ----------- 
+--------- | -------------------------------- | -------- | ----------- 
 ECON 120A | Econometrics                     | Tocoian  | Fall 2022
 ECON 178  | Economics & Business Forecasting | O        | Spring 2018
 ECON 172A | Operations Research              | Newhouse | Winter 2018
