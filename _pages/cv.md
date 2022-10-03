@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae pdf](https://credpath.github.io/files/Redpath_CV.pdf)
+Click to view my [Curriculum Vitae as a pdf](https://credpath.github.io/files/Redpath_CV.pdf).
 
 
 Contact Information 
@@ -52,10 +52,17 @@ BSc in Mathematics and, with Honors, in Economics *summa cum laude* - 2017<br>
 
 References
 ======
-
+<!-- 
 [Julie Cullen](https://econweb.ucsd.edu/~jbcullen/) &nbsp;&nbsp;  &emsp; [jbcullen@ucsd.edu](mailto:jbcullen@ucsd.edu) &nbsp;             &emsp; (858) 822-2056 <br>
 [Tom Vogl](http://tomvogl.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &emsp; [tvgol@ucsd.edu   ](mailto:tvgol@ucsd.edu   ) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &emsp; (858) 534-4553 <br>
 [David Arnold](https://sites.google.com/site/davidhallarnold)     &emsp; [daarnold@ucsd.edu](mailto:daarnold@ucsd.edu)                    &emsp; (760) 415-0418 <br>
+--->
+Name | Email | Phone
+-------------- | ----------------- | -------------- 
+[Julie Cullen](https://econweb.ucsd.edu/~jbcullen/)           | [jbcullen@ucsd.edu](mailto:jbcullen@ucsd.edu) | (858) 822-2056
+[Tom Vogl](http://tomvogl.com/)                               | [tvgol@ucsd.edu   ](mailto:tvgol@ucsd.edu   ) | (858) 534-4553
+[David Arnold](https://sites.google.com/site/davidhallarnold) | [daarnold@ucsd.edu](mailto:daarnold@ucsd.edu) | (760) 415-0418
+
 
 
 Fields of Interest
@@ -88,14 +95,14 @@ Working Papers
     <b> <i> Abstract: </i> </b>
   </summary> 
   
-<i>Marital decisions determine the distribution of family characteristics. Spousal visa policy permits non-residents to marry citizens. I ask how this policy affects coupling rates, marriage rates, and assortative mating by citizenship. When the Supreme Court ended the Defense of Marriage Act, same-sex couples gained access to spousal visas for the first time. I estimate the effect of this policy change for mixed-citizenship same-sex couples, accounting for aggregate changes in other same-sex and mixed-citizenship couples, using a triple difference design. Spousal visa access causes a 36% increase in coupling rates and a 78% increase in marriage rates. Transfer benefits, health insurance, roommates, moving, fraud, or state-level heterogeneity do not explain the results. Informal calculations suggest 1.5 million people are currently together directly thanks to spousal visa policy.</i>
+<i>Policy can impact partner choice and match quality. Spousal visa policy permits non-residents to marry citizens. I ask how this policy affects coupling rates, marriage rates, and assortative mating by citizenship and birth country. Without immigration policy variation, I identify the effect of spousal visa access by exploiting a change in the federal government's definition of spouse. When the Supreme Court ended the Defense of Marriage Act, same-sex couples gained access to spousal visas for the first time. I estimate the effect of this policy change for mixed-citizenship same-sex couples, accounting for aggregate changes in other same-sex and mixed-citizenship couples, using a triple difference design. Spousal visa access causes a 36\% increase in couple formation rates and a 71\% increase in marriage rates. Transfer benefits, health insurance, roommates, moving, fraud, or state-level heterogeneity do not explain the results. Informal calculations suggest 1.5 million people are currently partnered directly thanks to spousal visa policy.</i>
 
 </details> 
 
 <br>
 
 
-“Race-Predictive Language in Police Reporting” (with [Romaine Campbell](https://economics.harvard.edu/people/romaine-campbell))<br>
+“Officer Language and Suspect Race: A Text Analysis of Police Reports” (with [Romaine Campbell](https://economics.harvard.edu/people/romaine-campbell))<br>
 
 <details>
   
@@ -134,7 +141,7 @@ Works in Progress
     <b> <i> Abstract: </i> </b>
   </summary> 
   
-<i>We study a police department that was not an early adopter of body-worn cameras and was institutionally unwilling to adopt them with a randomized control trial (RCT). This large urban police department may better reflect an average department than those willing to implement an RCT. We compare dispatches made in broad daylight to those made at night before and after the rollout of body-worn cameras. We find officers' use of force does not change for 911 call dispatches. However, officers use less force for self-dispatches and make fewer self-dispatches.</i>
+<i>We study the effects of body-worn cameras on officer interactions in a police department that was not an early adopter of body-worn cameras and was institutionally unwilling to adopt them with a randomized control trial (RCT). We hypothesize that this sizeable urban police department may better reflect an average department than early adopters or departments willing to implement an RCT. We compare dispatches made during daylight hours to those made at night before and after the rollout of body-worn cameras. We find that officers use less force during self-dispatched calls and make fewer self-dispatches after the rollout. We do not find changes in officer use of force for 911 call dispatches.</i>
 
 </details> 
 
@@ -201,7 +208,7 @@ ECON 178  | Economics & Business Forecasting | O        | Spring 2018
 ECON 172A | Operations Research              | Newhouse | Winter 2018
 ECON 171  | Decisions Under Uncertainty      | Newhouse | Fall 2017  
 
-
+<!---
 *Fordham University<br> 
 New York, NY*<br>
 
@@ -215,13 +222,14 @@ MATH 1109 | Business Calculus | Spring 2017
 MATH 1100 | Finite Math       | Fall 2016
 MATH 2001 | Discreet Math     | Fall 2016
 
+
 **Tutor** <br>
 
 Setting | Courses | Semester 
  -------------- | ----------------- | -----------
 One-on-one      | Calculus, Finite Math  | Fall 2016 - Spring 2017
 Math Help Room  | Real Analysis, Linear Algebra, Abstract Algebra, Numerical Analysis, Differential Equations, Discrete Math, Calculus, Finite Math | Fall 2016 - Spring 2017
-
+--->
 
 Grants
 ======
