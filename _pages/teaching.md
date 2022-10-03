@@ -16,7 +16,7 @@ Teaching Statement
 
 <details>
 
-<summary>;Click to view my Teaching Statement as text</summary>
+<summary>Click to view my Teaching Statement as text</summary>
 
 <br>
 
