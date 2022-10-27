@@ -63,14 +63,16 @@ I plan to further develop my text analysis skills in future research projects. T
 <br>
 
 
-Working Papers
+Job Market Paper
 ======
 
-[“Spousal Visas and Couple Formation: Evidence from the End of the Defense Of Marriage Act”](https://osf.io/preprints/socarxiv/mzuwe/
-) <br>
+[“Spousal Visas and Couple Formation: Evidence from the End of the Defense Of Marriage Act”](https://credpath.github.io/files/Redpath_Job_Market_Paper.pdf) <br>
 
-<b> <i> Abstract: </i> </b> *Policy can impact partner choice and match quality. Spousal visa policy permits non-residents to marry citizens. I ask how this policy affects coupling rates, marriage rates, and assortative mating by citizenship and birth country. Without immigration policy variation, I identify the effect of spousal visa access by exploiting a change in the federal government's definition of spouse. When the Supreme Court ended the Defense of Marriage Act, same-sex couples gained access to spousal visas for the first time. I estimate the effect of this policy change for mixed-citizenship same-sex couples, accounting for aggregate changes in other same-sex and mixed-citizenship couples, using a triple difference design. Spousal visa access causes a 36\% increase in couple formation rates and a 71\% increase in marriage rates. Transfer benefits, health insurance, roommates, moving, fraud, or state-level heterogeneity do not explain the results. Informal calculations suggest 1.5 million people are currently partnered directly thanks to spousal visa policy.* <br>
+<b> <i> Abstract: </i> </b> *Policy can impact partner choice and match quality. Spousal visa policy permits non-residents to marry citizens. I ask how this policy affects coupling rates, marriage rates, and assortative mating by citizenship and birth country. Without immigration policy variation, I identify the effect of spousal visa access by exploiting a change in the federal government's definition of spouse. When the Supreme Court ended the Defense of Marriage Act, same-sex couples gained access to spousal visas for the first time. I estimate the effect of this policy change for mixed-citizenship same-sex couples, accounting for aggregate changes in other same-sex and mixed-citizenship couples, using a triple difference design. Spousal visa access causes a 36% increase in couple formation rates and a 72% increase in marriage rates. Transfer benefits, health insurance, roommates, moving, fraud, or state-level heterogeneity do not explain the results. Informal calculations suggest 1.5 million people are currently partnered directly thanks to spousal visa policy.* <br>
 
+
+Working Papers
+======
 
 “Officer Language and Suspect Race: A Text Analysis of Police Reports” (with [Romaine Campbell](https://economics.harvard.edu/people/romaine-campbell))<br>
 
