@@ -74,7 +74,8 @@ Job Market Paper
 Working Papers
 ======
 
-“Officer Language and Suspect Race: A Text Analysis of Police Reports” (with [Romaine Campbell](https://economics.harvard.edu/people/romaine-campbell))<br>
+“Officer Language and Suspect Race: A Text Analysis of Police Reports” (with [Romaine Campbell](https://economics.harvard.edu/people/romaine-campbell)) <br> 
+(due to data restrictions this paper is available upon request only) <br>
 
 <b> <i> Abstract: </i> </b> *We ask if police officers use adjectives and adverbs that systematically differ by suspect race (race-predictive language), if race-predictive language use relates to other officer characteristics, and if officers with more race-predictive language have different 911 call dispatch outcomes in Black compared with White neighborhoods. We leverage a novel data set containing police report text from a single large urban police department. We identify race-predictive language using an elastic net with word counts, then use predicted race to construct an officer-level measure of race-predictive language. By exploiting the conditionally random assignment of officers to 911 dispatches, we test whether officers with greater race-predictive language affect suspect outcomes. We find evidence that officers use different adjectives and adverbs in reports for Black versus White suspects and that such language correlates positively with officer inexperience, the number of complaints, the number of instances of use-of-force, and the racial gap in suspect search rates. We do not find a relationship between officer race and race-predictive language. Finally, we find evidence that officers with greater race-predictive language are more likely to assist and less likely to arrest in Black relative to White neighborhoods.* <br>
 
