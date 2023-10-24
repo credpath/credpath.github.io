@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-
+<!---
 Research Statement 
 ======
 
@@ -61,25 +61,27 @@ I plan to further develop my text analysis skills in future research projects. T
 </details> 
 
 <br>
+--->
 
 
-Job Market Paper
+
+
+Working Papers
 ======
+
 
 [“Spousal Visas and Couple Formation: Evidence from the End of the Defense Of Marriage Act”](https://credpath.github.io/files/Redpath_Job_Market_Paper.pdf) <br>
 
 <i> <b> Abstract: </b> Policy can impact partner choice and match quality. Spousal visa policy permits non-residents to marry citizens, arguably an assimilation capstone. I ask how this policy affects couple rates, marriage rates, and assortative mating by citizenship and birth country. Without immigration policy variation, I identify the effect of spousal visa access by exploiting a change in the federal government's definition of spouse. When the Supreme Court ended the Defense of Marriage Act in United States v. Windsor, same-sex couples gained access to spousal visas for the first time. I estimate the effect of this policy change for mixed-citizenship same-sex couples, accounting for aggregate changes in other same-sex and mixed-citizenship couples, using a triple difference design. Spousal visa access causes a 36% increase in coupling rates and a 72% increase in marriage rates. Transfer benefits, health insurance, roommates, moving, fraud, or state-level heterogeneity do not explain the results. Informal calculations suggest that 1.5 million people currently have partners, directly thanks to spousal visa policy. </i> <br>
 
 
-Working Papers
-======
-
 “Officer Language and Suspect Race: A Text Analysis of Police Reports” (with [Romaine Campbell](https://economics.harvard.edu/people/romaine-campbell)) <br> 
 (due to data restrictions this paper is available upon request only) <br>
 
-<b> <i> Abstract: </i> </b> *We ask if police officers use adjectives and adverbs that systematically differ by suspect race (race-predictive language), if race-predictive language use relates to other officer characteristics, and if officers with more race-predictive language have different 911 call dispatch outcomes in Black compared with White neighborhoods. We leverage a novel data set containing police report text from a single large urban police department. We identify race-predictive language using an elastic net with word counts, then use predicted race to construct an officer-level measure of race-predictive language. By exploiting the conditionally random assignment of officers to 911 dispatches, we test whether officers with greater race-predictive language affect suspect outcomes. We find evidence that officers use different adjectives and adverbs in reports for Black versus White suspects and that such language correlates positively with officer inexperience, the number of complaints, the number of instances of use-of-force, and the racial gap in suspect search rates. We do not find a relationship between officer race and race-predictive language. Finally, we find evidence that officers with greater race-predictive language are more likely to assist and less likely to arrest in Black relative to White neighborhoods.* <br>
+<b> <i> Abstract: </i> </b> *We evaluate whether police officers use adjectives and adverbs that systematically differ by the suspect’s race (race-predictive language) and whether race-predictive language use relates to officer characteristics. We leverage a novel data set containing police report text from a single large urban police department. We identify race-predictive language using a linear combination of LASSO and ridge regression regularization with word counts, and we then use predicted race to construct an officer-level measure of race-predictive language. We find evidence that officers use different adjectives and adverbs in reports for Black versus white suspects. Black officers use less race-predictive language. Race-predictive language use correlates positively with officer inexperience and the number of instances of use-of-force.* <br>
 
 
+<!---
 Works in Progress
 ======
 
@@ -90,7 +92,7 @@ Works in Progress
 “Body-Worn Cameras and Police Stops” (with [Romaine Campbell](https://economics.harvard.edu/people/romaine-campbell))<br>
 
 <b> <i> Abstract: </i> </b> *We study the effects of body-worn cameras on officer interactions in a police department that was not an early adopter of body-worn cameras and was institutionally unwilling to adopt them with a randomized control trial (RCT). We hypothesize that this sizeable urban police department may better reflect an average department than early adopters or departments willing to implement an RCT. We compare dispatches made during daylight hours to those made at night before and after the rollout of body-worn cameras. We find that officers use less force during self-dispatched calls and make fewer self-dispatches after the rollout. We do not find changes in officer use of force for 911 call dispatches.* <br>
-
+--->
 
 Publications
 ======
