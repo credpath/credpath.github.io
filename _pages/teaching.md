@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-
+<!---
 Teaching Statement
 =====
 
@@ -45,7 +45,7 @@ I enjoy teaching. So I worked to become an outstanding TA. During my first time 
  </details>
  
  <br>
-
+--->
 
 Experience 
 ======
@@ -65,6 +65,7 @@ ECON 3    | Principles of Macroeconomics         | Summer 2021 | [Evaluation](ht
 
  Course   | Title | Professor | Quarter | Evaluations
  -------- | ------------------------------------ | -------- | ----------- | ------------
+GPEC 446	 | Applied Data Analysis	               | McIntosh	| Spring 2023 |
 ECON 172B | Operations Research                  | Newhouse | Spring 2022 | 
 ECON 120C | Econometrics                         | Wüthrich | Winter 2022 | 
 ECON 121  | Applied Econometrics & Data Analysis | Vogl     | Fall 2021   | [Evaluation](https://credpath.github.io/files/Redpath_Connor_Student_IA_Evaluation_-_ECON_121_-_Applied_Econometrics_&_Data_[A00]_(Vogl_Tom_Saul)_-_FA21.pdf)
@@ -83,6 +84,7 @@ ECON 120A | Econometrics                         | Candido  | Fall 2018   |
 
  Course   | Title | Professor | Quarter 
  -------- | -------------------------------- | -------- | ----------- 
+ECON 120A | Econometrics                     | Candido  | Winter 2023
 ECON 120A | Econometrics                     | Tocoian  | Fall 2022
 ECON 178  | Economics & Business Forecasting | O        | Spring 2018
 ECON 172A | Operations Research              | Newhouse | Winter 2018
