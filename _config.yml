@@ -88,12 +88,12 @@ analytics:
 author:
   name             : "Connor Redpath"
   avatar           : "Redpath_Job_Market_Photo.jpg"
-  bio              : "I am an Economics PhD Candidate on the job market."
-  location         : "UC San Diego"
+  bio              : "I am a Financial Economist at the FDIC."
+  location         : "Washington, DC"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kg6ZjcIAAAAJ&hl"
-  email            :  "credpath@ucsd.edu"
+  email            :  "credpath@fdic.gov"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   ideasrepec       : "https://ideas.repec.org/f/pre607.html"
   uri              :
