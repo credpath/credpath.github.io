@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "Connor Redpath"
   avatar           : "Redpath_Job_Market_Photo.jpg"
-  bio              : "I am a Financial Economist at the FDIC."
+  bio              : "" #"I am a Financial Economist at the FDIC."
   location         : "Washington, DC"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
