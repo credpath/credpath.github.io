@@ -25,8 +25,9 @@ La Jolla, CA 92093-0508<br>
 Phone: (917) 854-2749<br>
 Fax: (858) 534-7040<br>
 Email: [credpath@ucsd.edu](mailto:credpath@ucsd.edu)<br>
-Personal Website: [https://credpath.github.io/](https://credpath.github.io/)<br>
-UCSD Website: [https://acsweb.ucsd.edu/~credpath/](https://acsweb.ucsd.edu/~credpath/) <br>
+Personal Website: [credpath.github.io](https://credpath.github.io/)<br>
+FDIC Website: [fdic.gov/consumerresearch](https://www.fdic.gov/analysis/consumer-research/)<br>
+UCSD Website: [ucsd.edu/~credpath](https://acsweb.ucsd.edu/~credpath/) <br>
 <br>
 Placement Director &nbsp;&nbsp;&emsp;&emsp; Jim Andreoni  &nbsp;&emsp; (858) 952-6183 &emsp; [andreoni@ucsd.edu](mailto:andreoni@ucsd.edu) <br>
 Placement Coodinator                 &emsp; Andrew Flores       &emsp; (858) 534-1058 &emsp; [aflores@ucsd.edu ](mailto:aflores@ucsd.edu ) <br>
@@ -38,6 +39,9 @@ Washington, DC 20429<br>
 <br>
 Phone: (202) 898-3742<br>
 Email: [credpath@fdic.gov](mailto:credpath@fdic.gov)<br>
+Personal Website: [credpath.github.io](https://credpath.github.io/)<br>
+FDIC Website: [fdic.gov/consumerresearch](https://www.fdic.gov/analysis/consumer-research/)<br>
+UCSD Website: [ucsd.edu/~credpath](https://acsweb.ucsd.edu/~credpath/) <br>
 
 
 Education
@@ -60,24 +64,6 @@ Committee: [Julie Cullen](https://econweb.ucsd.edu/~jbcullen/) (chair), [Tom Vog
 BSc in Mathematics and, with Honors, in Economics *summa cum laude* - 2017<br>
 
 
-References<br>
-======
-<!-- 
-[Julie Cullen](https://econweb.ucsd.edu/~jbcullen/) &nbsp;&nbsp;  &emsp; [jbcullen@ucsd.edu](mailto:jbcullen@ucsd.edu) &nbsp;             &emsp; (858) 822-2056 <br>
-[Tom Vogl](http://tomvogl.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &emsp; [tvgol@ucsd.edu   ](mailto:tvgol@ucsd.edu   ) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &emsp; (858) 534-4553 <br>
-[David Arnold](https://sites.google.com/site/davidhallarnold)     &emsp; [daarnold@ucsd.edu](mailto:daarnold@ucsd.edu)                    &emsp; (760) 415-0418 <br>
---->
-
-
-[Julie Cullen](https://econweb.ucsd.edu/~jbcullen/), [Tom Vogl](http://tomvogl.com/), [David Arnold](https://sites.google.com/site/davidhallarnold) <br>
-
-<!-- 
-Name | Email | Phone
---------------- | ------------------ | --------------- 
-[Julie Cullen](https://econweb.ucsd.edu/~jbcullen/)           | [jbcullen@ucsd.edu](mailto:jbcullen@ucsd.edu) | (858) 822-2056
-[Tom Vogl](http://tomvogl.com/)                               | [tvgol@ucsd.edu](mailto:tvgol@ucsd.edu)       | (858) 534-4553
-[David Arnold](https://sites.google.com/site/davidhallarnold) | [daarnold@ucsd.edu](mailto:daarnold@ucsd.edu) | (760) 415-0418
---->
 
 <!-- 
 Fields of Interest
@@ -89,8 +75,8 @@ Labor Economics, Law & Economics, Public Economics, Political Economy<br>
 Relevant Positions Held
 ======
 
-Financial Economist, FDIC, 2023 - present <br>
-Fellow in Economics, Harvard University, 2021 - 2023 <br>
+Research Economist, FDIC, 2023 - present <br>
+Fellow in Economics, Harvard University, 2021 - 2024 <br>
 Research Assistant, [Center for Health Economics & Policy Studies](https://cheps.sdsu.edu/), 2020 <br>
 
 <!--
@@ -323,4 +309,24 @@ Hobbies: Running, Swimming, Cycling, Balletomane<br>
 Professional Classical Ballet Dancer:<br>
 &emsp;&emsp;Lietuvos Nacionalinis Operos ir Baleto Teatras, Vilnius, 2013-2015<br>
 &emsp;&emsp;Cincinnati Ballet, Cincinnati, 2012-2013
+--->
+
+
+References<br>
+======
+<!-- 
+[Julie Cullen](https://econweb.ucsd.edu/~jbcullen/) &nbsp;&nbsp;  &emsp; [jbcullen@ucsd.edu](mailto:jbcullen@ucsd.edu) &nbsp;             &emsp; (858) 822-2056 <br>
+[Tom Vogl](http://tomvogl.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &emsp; [tvgol@ucsd.edu   ](mailto:tvgol@ucsd.edu   ) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &emsp; (858) 534-4553 <br>
+[David Arnold](https://sites.google.com/site/davidhallarnold)     &emsp; [daarnold@ucsd.edu](mailto:daarnold@ucsd.edu)                    &emsp; (760) 415-0418 <br>
+--->
+
+
+[Julie Cullen](https://econweb.ucsd.edu/~jbcullen/), [Tom Vogl](http://tomvogl.com/), [David Arnold](https://sites.google.com/site/davidhallarnold) <br>
+
+<!-- 
+Name | Email | Phone
+--------------- | ------------------ | --------------- 
+[Julie Cullen](https://econweb.ucsd.edu/~jbcullen/)           | [jbcullen@ucsd.edu](mailto:jbcullen@ucsd.edu) | (858) 822-2056
+[Tom Vogl](http://tomvogl.com/)                               | [tvgol@ucsd.edu](mailto:tvgol@ucsd.edu)       | (858) 534-4553
+[David Arnold](https://sites.google.com/site/davidhallarnold) | [daarnold@ucsd.edu](mailto:daarnold@ucsd.edu) | (760) 415-0418
 --->
