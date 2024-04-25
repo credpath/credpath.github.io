@@ -34,11 +34,11 @@ Placement Coodinator                 &emsp; Andrew Flores       &emsp; (858) 534
 --->
 
 Federal Deposit Insurance Corporation<br>
-550 17th Street NW, Room F-7024<br>
+550 17th Street NW, Room F-7010<br>
 Washington, DC 20429<br>
 <br>
 Phone: (202) 898-3742<br>
-Email: [credpath@fdic.gov](mailto:credpath@fdic.gov)<br>
+Email: [connor.redpath@gmail.com](mailto:connor.redpath@gmail.com)<br>
 Personal Website: [credpath.github.io](https://credpath.github.io/)<br>
 FDIC Website: [fdic.gov/consumerresearch](https://www.fdic.gov/analysis/consumer-research/)<br>
 UCSD Website: [ucsd.edu/~credpath](https://acsweb.ucsd.edu/~credpath/) <br>
@@ -76,7 +76,7 @@ Relevant Positions Held
 ======
 
 Research Economist, FDIC, 2023 - present <br>
-Fellow in Economics, Harvard University, 2021 - 2024 <br>
+Fellow in Economics, Harvard University, 2021 - 2025 <br>
 Research Assistant, [Center for Health Economics & Policy Studies](https://cheps.sdsu.edu/), 2020 <br>
 
 <!--
@@ -92,7 +92,7 @@ Stata, R, Quanteda, LaTeX, Git
 Working Papers
 ======
 
-[“Spousal Visas and Couple Formation: Evidence from the End of the Defense Of Marriage Act”](https://credpath.github.io/files/Redpath_Job_Market_Paper.pdf) <br>
+[“Spousal Visas and Couple Formation: Evidence United States v. Windsor”](https://credpath.github.io/files/Redpath_Job_Market_Paper.pdf) (under review) <br>
 
 <details>
   
@@ -100,7 +100,7 @@ Working Papers
     <b> <i> Abstract: </i> </b>
   </summary> 
   
-<i>Policy can impact partner choice and match quality. Spousal visa policy permits non-residents to marry citizens, arguably an assimilation capstone. I ask how this policy affects couple rates, marriage rates, and assortative mating by citizenship and birth country. Without immigration policy variation, I identify the effect of spousal visa access by exploiting a change in the federal government's definition of spouse. When the Supreme Court ended the Defense of Marriage Act in United States v. Windsor, same-sex couples gained access to spousal visas for the first time. I estimate the effect of this policy change for mixed-citizenship same-sex couples, accounting for aggregate changes in other same-sex and mixed-citizenship couples, using a triple difference design. Spousal visa access causes a 36% increase in coupling rates and a 72% increase in marriage rates. Transfer benefits, health insurance, roommates, moving, fraud, or state-level heterogeneity do not explain the results. Informal calculations suggest that 1.5 million people currently have partners, directly thanks to spousal visa policy.</i>
+<i>How does spousal visa access affect couple formation? I answer by exploiting a change in the federal government's definition of spouse: following \textit{United States v. Windsor}, same-sex couples gained access to spousal visas. I estimate this causes a 36% increase in couples and a 72% increase in marriage rates for mixed-citizenship same-sex couples, accounting for aggregate changes in other same-sex and mixed-citizenship couples using a triple difference design. Transfers, insurance, or fraud do not explain the results. Informal calculations suggest that 1.5 million people have partners thanks to spousal visas. I also find suggestive evidence consistent with improved match quality. </i>
 
 </details> 
 
