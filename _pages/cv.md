@@ -100,7 +100,7 @@ Working Papers
     <b> <i> Abstract: </i> </b>
   </summary> 
   
-<i>How does spousal visa access affect couple formation? I answer by exploiting a change in the federal government's definition of spouse: following \textit{United States v. Windsor}, same-sex couples gained access to spousal visas. I estimate this causes a 36% increase in couples and a 72% increase in marriage rates for mixed-citizenship same-sex couples, accounting for aggregate changes in other same-sex and mixed-citizenship couples using a triple difference design. Transfers, insurance, or fraud do not explain the results. Informal calculations suggest that 1.5 million people have partners thanks to spousal visas. I also find suggestive evidence consistent with improved match quality. </i>
+<i>How does spousal visa access affect couple formation? I answer by exploiting a change in the federal government's definition of spouse: following </i>United States v. Windsor<i>, same-sex couples gained access to spousal visas. I estimate this causes a 36% increase in couples and a 72% increase in marriage rates for mixed-citizenship same-sex couples, accounting for aggregate changes in other same-sex and mixed-citizenship couples using a triple difference design. Transfers, insurance, or fraud do not explain the results. Informal calculations suggest that 1.5 million people have partners thanks to spousal visas. I also find suggestive evidence consistent with improved match quality. </i>
 
 </details> 
 
@@ -270,6 +270,15 @@ WEAI Annual Meeting                                | San Diego    | 2023
 WEAI Annual Meeting                                | Portland     | 2022
 
 
+**Conference Reviewer**<br>
+
+Name | Location | Year
+-------------------------------------------------- | ------------ | ----
+APPAM                                              | Washington   | 2024
+ACCI                                               | Milwaukee    | 2024
+Consumer Research Symposium                        | Arlington    | 2024
+
+
 **Referee Service**<br>
 [*Review of Economics of the Household*](https://www.springer.com/journal/11150), [*Scientific Reports*](https://www.nature.com/srep/), [*Social Forces*](https://academic.oup.com/sf)<br>
 
@@ -279,6 +288,10 @@ Organizer, 3rd Year Applied Group Seminar, 2019-2020<br>
 Member, Search Committee for the Dean of Rady School of Management, 2019<br>
 Representative, Graduate and Professional Student Association, 2018-2019<br>
 --->
+
+**Other Service**<br>
+Organizer, Consumer Research Symposium, 2024<br>
+Member, Search Committee for the Dean of Rady School of Management, 2019<br>
 
 <!--
 Research Experience
