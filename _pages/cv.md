@@ -26,21 +26,22 @@ Phone: (917) 854-2749<br>
 Fax: (858) 534-7040<br>
 Email: [credpath@ucsd.edu](mailto:credpath@ucsd.edu)<br>
 Personal Website: [credpath.github.io](https://credpath.github.io/)<br>
-FDIC Website: [fdic.gov/consumerresearch](https://www.fdic.gov/analysis/consumer-research/)<br>
 UCSD Website: [ucsd.edu/~credpath](https://acsweb.ucsd.edu/~credpath/) <br>
+FDIC Website: [fdic.gov/consumerresearch](https://www.fdic.gov/analysis/consumer-research/)<br>
 <br>
 Placement Director &nbsp;&nbsp;&emsp;&emsp; Jim Andreoni  &nbsp;&emsp; (858) 952-6183 &emsp; [andreoni@ucsd.edu](mailto:andreoni@ucsd.edu) <br>
 Placement Coodinator                 &emsp; Andrew Flores       &emsp; (858) 534-1058 &emsp; [aflores@ucsd.edu ](mailto:aflores@ucsd.edu ) <br>
---->
 
 Federal Deposit Insurance Corporation<br>
 550 17th Street NW, Room F-7010<br>
 Washington, DC 20429<br>
 <br>
-Phone: (202) 898-3742<br>
-Email: [connor.redpath@gmail.com](mailto:connor.redpath@gmail.com)<br>
+--->
+
+Phone: (&#057;&#049;&#055;)&#032;&#056;&#053;&#052;&#045;&#050;&#055;&#052;&#057; <br>
+Email: [&#099;&#111;&#110;&#110;&#111;&#114;&#046;&#114;&#101;&#100;&#112;&#097;&#116;&#104;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;](&#109;&#097;&#105;&#108;&#116;&#111;:&#099;&#111;&#110;&#110;&#111;&#114;&#046;&#114;&#101;&#100;&#112;&#097;&#116;&#104;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)<br>
 Personal Website: [credpath.github.io](https://credpath.github.io/)<br>
-FDIC Website: [fdic.gov/consumerresearch](https://www.fdic.gov/analysis/consumer-research/)<br>
+FDIC Website: [&#102;&#100;&#105;&#099;&#046;&#103;&#111;&#118;/&#099;&#111;&#110;&#115;&#117;&#109;&#101;&#114;&#114;&#101;&#115;&#101;&#097;&#114;&#099;&#104;](&#104;&#116;&#116;&#112;&#115;://&#119;&#119;&#119;&#046;&#102;&#100;&#105;&#099;&#046;&#103;&#111;&#118;/&#097;&#110;&#097;&#108;&#121;&#115;&#105;&#115;/&#099;&#111;&#110;&#115;&#117;&#109;&#101;&#114;&#045;&#114;&#101;&#115;&#101;&#097;&#114;&#099;&#104;/&#114;&#101;&#115;&#101;&#097;&#114;&#099;&#104;&#101;&#114;&#115;/&#114;&#101;&#100;&#112;&#097;&#116;&#104;/)<br>
 UCSD Website: [ucsd.edu/~credpath](https://acsweb.ucsd.edu/~credpath/) <br>
 
 
