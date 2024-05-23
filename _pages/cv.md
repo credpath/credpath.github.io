@@ -107,7 +107,7 @@ Working Papers
 <br>
 
 
-“Officer Language and Suspect Race: A Text Analysis of Police Reports” (with [Romaine Campbell](https://economics.harvard.edu/people/romaine-campbell))<br>
+“Officer Language and Suspect Race: A Text Analysis of Police Reports” (with [Romaine Campbell](https://romainecampbell.github.io/))<br>
 
 <details>
   
