@@ -70,7 +70,7 @@ Working Papers
 ======
 
 
-[“Spousal Visas and Couple Formation: Evidence from United States v. Windsor”](https://credpath.github.io/files/Redpath_Job_Market_Paper.pdf) (under review) <br>
+[“Spousal Visas and Couple Formation: Evidence from United States v. Windsor”](https://credpath.github.io/files/Redpath_Job_Market_Paper.pdf) <br>
 
 <i> <b> Abstract: </b> How does spousal visa access affect couple formation? I answer by exploiting a change in the federal government's definition of spouse: following United States v. Windsor, same-sex couples gained access to spousal visas. I estimate this causes a 36% increase in couples and a 72% increase in marriage rates for mixed-citizenship same-sex couples, accounting for aggregate changes in other same-sex and mixed-citizenship couples using a triple difference design. Transfers, insurance, or fraud do not explain the results. Informal calculations suggest that 1.5 million people have partners thanks to spousal visas. I also find suggestive evidence consistent with improved match quality. </i> <br>
 
