@@ -76,7 +76,7 @@ Labor Economics, Law & Economics, Public Economics, Political Economy<br>
 Relevant Positions Held
 ======
 
-Research Economist, FDIC, 2023 - present <br>
+Research Economist, Federal Deposit Insurance Corporation, 2023 - present <br>
 Adjunct Professor, Fordham University, 2024 - present <br>
 Special Sworn Status Researcher, US Census Bureau, 2024 - present <br>
 Fellow in Economics, Harvard University, 2021 - 2025 <br>
