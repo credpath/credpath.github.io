@@ -64,8 +64,40 @@ I plan to further develop my text analysis skills in future research projects. T
 --->
 
 
+Working Papers
+======
+
+[“Migrants Move Marriage Markets? Evidence from Same-Sex Spousal Visa Access”](https://credpath.github.io/files/Redpath_Spousal_Visa_Access.pdf) (revisions requested, <i> Journal of Human Resources </i> ) <br>
+  
+<b> <i> Abstract: </i> </b>  
+<i> How do spousal visas impact couple formation, marriage, and assortative mating? To answer, I leverage the 2013 federal recognition of same-sex marriages: a unique setting with extensive margin changes in spousal visa access. Using difference-in-difference-in-differences, I find spousal visa access causes a 36% increase in mixed-citizenship same-sex couples and a 72% increase in their marriage rate, above and beyond increases in other same-sex couples and other mixed-citizenship couples. Informal calculations suggest that 1.5 million people are currently partnered directly thanks to spousal visa policy. Results also suggest greater assortative mating by age and education, implying improved match quality. </i><br>
 
 
+“Officer Language and Suspect Race: A Text Analysis of Police Reports” (with [Romaine Campbell](https://romainecampbell.github.io/))<br>
+
+<b> <i> Abstract: </i> </b>
+<i>We evaluate whether police officers use adjectives and adverbs that systematically differ by the suspect’s race (race-predictive language) and whether race-predictive language use relates to officer characteristics. We leverage a novel data set containing police report text from a single large urban police department. We identify race-predictive language using a linear combination of LASSO and ridge regression regularization with word counts, and we then use predicted race to construct an officer-level measure of race-predictive language. We find evidence that officers use different adjectives and adverbs in reports for Black versus white suspects. Black officers use less race-predictive language. Race-predictive language use correlates positively with officer inexperience and the number of instances of use-of-force.</i><br>
+
+
+Works in Progress
+======
+
+“Employed in a SNAP? The Staggered Roll-Out of Work Requirements” (with [Mary Zaki](https://www.fdic.gov/consumer-research/mary-zaki))<br>
+“First Financial Footsteps: Parental Transmission of Bank Account Ownership” (with [Garret Christensen](https://www.ocf.berkeley.edu/~garret/)) <br>
+“Parenting Possibilities and Partner Priorities: Age Gaps After Same-Sex Marriage Rights” <br>
+“Unauthorized and Unbanked? Immigration Status and Access to Financial Services?” <br>
+
+
+Publications
+======
+
+[“Risk Aversion, Offsetting Community Effects, and COVID-19: Evidence from an Indoor Political Rally”]([https://www.nber.org/papers/w27522](https://link.springer.com/article/10.1007/s11166-021-09359-4)) *Journal of Risk and Uncertainty* 63, 133–167 (2021) (with Dhaval M. Dave, Andrew I. Friedson, Kyutaro Matsuzawa, Drew McNichols, Joseph J. Sabia)<br>
+
+  
+<b> <i> Abstract: </i> </b>
+<i>The Centers for Disease Control and Prevention (CDC) deem large indoor gatherings without social distancing the “highest risk” activity for COVID-19 contagion. On June 20, 2020, President Donald J. Trump held his first mass campaign rally following the US coronavirus outbreak at the indoor Bank of Oklahoma arena. In the weeks following the event, numerous high-profile national news outlets reported that the Trump rally was “more than likely” the cause of a coronavirus surge in Tulsa County based on time series data. This study is the first to rigorously explore the impacts of this event on social distancing and COVID-19 spread. First, using data from SafeGraph Inc, we show that while non-resident visits to census block groups hosting the Trump event grew by approximately 25 percent, there was no decline in net stay-at-home behavior in Tulsa County, reflecting important offsetting behavioral effects. Then, using data on COVID-19 cases from the CDC and a synthetic control design, we find little evidence that COVID-19 grew more rapidly in Tulsa County, its border counties, or in the state of Oklahoma than each's estimated counterfactual during the five-week post-treatment period we observe. Difference-in-differences estimates further provide no evidence that COVID-19 rates grew faster in counties that drew relatively larger shares of residents to the event. We conclude that offsetting risk-related behavioral responses to the rally—including voluntary closures of restaurants and bars in downtown Tulsa, increases in stay-at-home behavior, displacement of usual activities of weekend inflows, and smaller-than-expected crowd attendance—may be important mechanisms.</i><br>
+
+<!---
 Working Papers
 ======
 
@@ -84,7 +116,7 @@ Working Papers
 
 <i> <b> Abstract: </b>  Same-sex couples have larger age gaps than different-sex couples. I argue differences in fertility are partially responsible. I estimate the relationship between same-sex marriage legalization and age gaps using difference-in-difference models that compare younger same-sex coupled to older same-sex couples, and same-sex couples to different-sex couples. I find younger women in same-sex couples have decreasing age gaps after same-sex marriage legalization, however, men do not, which is consistent with the importance of fertility.  </i> <br>
 
-<!---
+
 Works in Progress
 ======
 
