@@ -50,6 +50,16 @@ I enjoy teaching. So I worked to become an outstanding TA. During my first time 
 Experience 
 ======
 
+*Fordham University<br> 
+New York, NY*<br>
+
+**Adjunct Professor** <br>
+
+ Course   | Title | Semester 
+ -------- | ----------------- | -----------
+ECON 1100 | Principles of Macroeconomics | Fall 2024
+ECON 1200 | Principles of Microeconomics | Spring 2025
+
 *University of California, San Diego<br>
 La Jolla, CA*<br>
 
