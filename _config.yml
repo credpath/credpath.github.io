@@ -89,11 +89,11 @@ author:
   name             : "Connor Redpath"
   avatar           : "Redpath_Job_Market_Photo.jpg"
   bio              : "" #"I am a Financial Economist at the FDIC."
-  location         : "Washington, DC"
+  location         : 
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=kg6ZjcIAAAAJ&hl"
-  email            :  "credpath@fdic.gov"
+  email            :  "connor.redpath@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   ideasrepec       : "https://ideas.repec.org/f/pre607.html"
   uri              :
@@ -116,7 +116,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "connor_redpath"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
