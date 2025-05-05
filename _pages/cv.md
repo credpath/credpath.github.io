@@ -350,30 +350,24 @@ Supervised by [James Hamilton](https://econweb.ucsd.edu/~jhamilton/) (Summer 201
 
 Other Information
 ======
-<!--
-Citizenship: United States, Canada<br>
-Languages: English (Native Speaker), French (Advanced), Lithuanian (Beginner), Russian (Beginner)<br>
---->
+
 Skills: R, Python, SQL, Stata, Matlab, NLP, quanteda, Latex, Git <br>
-<!---
-Hobbies: Running, Swimming, Cycling, Balletomane<br>
---->
 Professional Classical Ballet Dancer:<br>
 &emsp;&emsp;Lietuvos Nacionalinis Operos ir Baleto Teatras, Vilnius, 2013-2015<br>
 <!--
 &emsp;&emsp;Cincinnati Ballet, Cincinnati, 2012-2013
+Citizenship: United States, Canada<br>
+Languages: English (Native Speaker), French (Advanced), Lithuanian (Beginner), Russian (Beginner)<br>
+Hobbies: Running, Swimming, Cycling, Balletomane<br>
+--->
 
+<!--
 References<br>
 ======
 [Julie Cullen](https://econweb.ucsd.edu/~jbcullen/) &nbsp;&nbsp;  &emsp; [jbcullen@ucsd.edu](mailto:jbcullen@ucsd.edu) &nbsp;             &emsp; (858) 822-2056 <br>
 [Tom Vogl](http://tomvogl.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &emsp; [tvgol@ucsd.edu   ](mailto:tvgol@ucsd.edu   ) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &emsp; (858) 534-4553 <br>
 [David Arnold](https://sites.google.com/site/davidhallarnold)     &emsp; [daarnold@ucsd.edu](mailto:daarnold@ucsd.edu)                    &emsp; (760) 415-0418 <br>
 
-
-[Julie Cullen](https://econweb.ucsd.edu/~jbcullen/), [Tom Vogl](http://tomvogl.com/), [David Arnold](https://sites.google.com/site/davidhallarnold) <br>
---->
-
-<!-- 
 Name | Email | Phone
 --------------- | ------------------ | --------------- 
 [Julie Cullen](https://econweb.ucsd.edu/~jbcullen/)           | [jbcullen@ucsd.edu](mailto:jbcullen@ucsd.edu) | (858) 822-2056
