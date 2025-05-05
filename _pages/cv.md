@@ -40,10 +40,11 @@ Washington, DC 20429<br>
 
 Phone: (&#057;&#049;&#055;)&#032;&#056;&#053;&#052;&#045;&#050;&#055;&#052;&#057; <br>
 Email: [&#099;&#111;&#110;&#110;&#111;&#114;&#046;&#114;&#101;&#100;&#112;&#097;&#116;&#104;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;](&#109;&#097;&#105;&#108;&#116;&#111;:&#099;&#111;&#110;&#110;&#111;&#114;&#046;&#114;&#101;&#100;&#112;&#097;&#116;&#104;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)<br>
+<!---
 Personal Website: [credpath.github.io](https://credpath.github.io/)<br>
 FDIC Website: [&#102;&#100;&#105;&#099;&#046;&#103;&#111;&#118;/&#099;&#111;&#110;&#115;&#117;&#109;&#101;&#114;&#114;&#101;&#115;&#101;&#097;&#114;&#099;&#104;](&#104;&#116;&#116;&#112;&#115;://&#119;&#119;&#119;&#046;&#102;&#100;&#105;&#099;&#046;&#103;&#111;&#118;/&#097;&#110;&#097;&#108;&#121;&#115;&#105;&#115;/&#099;&#111;&#110;&#115;&#117;&#109;&#101;&#114;&#045;&#114;&#101;&#115;&#101;&#097;&#114;&#099;&#104;/&#114;&#101;&#115;&#101;&#097;&#114;&#099;&#104;&#101;&#114;&#115;/&#114;&#101;&#100;&#112;&#097;&#116;&#104;/)<br>
 UCSD Website: [ucsd.edu/~credpath](https://acsweb.ucsd.edu/~credpath/) <br>
-
+--->
 
 Education
 ======
@@ -51,7 +52,6 @@ Education
 *University of California, San Diego*<br>
 *La Jolla, CA*<br>
 PhD Economics - 2023<br>
-CPhil Economics - 2021<br>
 MA Economics - 2019<br>
 
 <!-- 
@@ -62,7 +62,7 @@ Committee: [Julie Cullen](https://econweb.ucsd.edu/~jbcullen/) (chair), [Tom Vog
 
 *Fordham University*<br>
 *New York, NY*<br>
-BSc in Mathematics and, with Honors, in Economics *summa cum laude* - 2017<br>
+BSc Mathematics & Economics *summa cum laude* - 2017<br>
 
 
 
@@ -77,6 +77,8 @@ Relevant Positions Held
 ======
 
 Research Economist, FDIC, 2023 - present <br>
+Adjunct Professor, Fordham University, 2024 - present <br>
+Special Sworn Status Researcher, US Census Bureau, 2024 - present <br>
 Fellow in Economics, Harvard University, 2021 - 2025 <br>
 Research Assistant, [Center for Health Economics & Policy Studies](https://cheps.sdsu.edu/), 2020 <br>
 
@@ -93,7 +95,7 @@ Stata, R, Quanteda, LaTeX, Git
 Working Papers
 ======
 
-[“Spousal Visas and Couple Formation: Evidence United States v. Windsor”](https://credpath.github.io/files/Redpath_Job_Market_Paper.pdf) (under review) <br>
+[“Migrants Move Marriage Markets? Evidence from Same-Sex Spousal Visa Access”](https://credpath.github.io/files/Redpath_Spousal_Visa_Access.pdf) (revisions requested, <i> Journal of Human Resources </i> ) <br>
 
 <details>
   
@@ -101,7 +103,7 @@ Working Papers
     <b> <i> Abstract: </i> </b>
   </summary> 
   
-<i>How does spousal visa access affect couple formation? I answer by exploiting a change in the federal government's definition of spouse: following </i>United States v. Windsor<i>, same-sex couples gained access to spousal visas. I estimate this causes a 36% increase in couples and a 72% increase in marriage rates for mixed-citizenship same-sex couples, accounting for aggregate changes in other same-sex and mixed-citizenship couples using a triple difference design. Transfers, insurance, or fraud do not explain the results. Informal calculations suggest that 1.5 million people have partners thanks to spousal visas. I also find suggestive evidence consistent with improved match quality. </i>
+<i> How do spousal visas impact couple formation, marriage, and assortative mating? To answer, I leverage the 2013 federal recognition of same-sex marriages: a unique setting with extensive margin changes in spousal visa access. Using difference-in-difference-in-differences, I find spousal visa access causes a 36% increase in mixed-citizenship same-sex couples and a 72% increase in their marriage rate, above and beyond increases in other same-sex couples and other mixed-citizenship couples. Informal calculations suggest that 1.5 million people are currently partnered directly thanks to spousal visa policy. Results also suggest greater assortative mating by age and education, implying improved match quality. </i>
 
 </details> 
 
@@ -123,7 +125,13 @@ Working Papers
 <br>
 
 
+Works in Progress
+======
 
+“Employed in a SNAP? The Staggered Roll-Out of Work Requirements” (with [Mary Zaki](https://www.fdic.gov/consumer-research/mary-zaki))<br>
+“First Financial Footsteps: Parental Transmission of Bank Account Ownership” (with [Garret Christensen](https://www.ocf.berkeley.edu/~garret/)) <br>
+“Parenting Possibilities and Partner Priorities: Age Gaps After Same-Sex Marriage Rights” <br>
+“Unauthorized and Unbanked? Immigration Status and Access to Financial Services?” <br>
 
 
 Publications
@@ -147,6 +155,17 @@ Publications
 
 Teaching Experience 
 ======
+
+*Fordham University<br> 
+New York, NY*<br>
+
+**Adjunct Professor** <br>
+
+ Course   | Title | Semester 
+ -------- | ----------------- | -----------
+ECON 1100 | Principles of Macroeconomics | Fall 2024
+ECON 1200 | Principles of Microeconomics | Spring 2025
+
 
 *University of California, San Diego<br>
 La Jolla, CA*<br>
@@ -177,7 +196,7 @@ ECON 110A | Macroeconomics                       | Rondina  | Spring 2019
 ECON 172A | Operations Research                  | Newhouse | Winter 2019
 ECON 120A | Econometrics                         | Candido  | Fall 2018  
 
-
+<!---
 **Reader** <br>
 
  Course   | Title | Professor | Quarter 
@@ -188,7 +207,7 @@ ECON 178  | Economics & Business Forecasting | O        | Spring 2018
 ECON 172A | Operations Research              | Newhouse | Winter 2018
 ECON 171  | Decisions Under Uncertainty      | Newhouse | Fall 2017  
 
-<!---
+
 *Fordham University<br> 
 New York, NY*<br>
 
@@ -209,7 +228,7 @@ Setting | Courses | Semester
  -------------- | ----------------- | -----------
 One-on-one      | Calculus, Finite Math  | Fall 2016 - Spring 2017
 Math Help Room  | Real Analysis, Linear Algebra, Abstract Algebra, Numerical Analysis, Differential Equations, Discrete Math, Calculus, Finite Math | Fall 2016 - Spring 2017
---->
+
 
 Grants
 ======
@@ -219,20 +238,29 @@ Grants
 Travel and Research Grant - $400 | UCSD Econ | Spring 2022
 Travel and Research Grant - $255 | UCSD Econ | Winter 2022
 Travel and Research Grant - $500 | UCSD Econ | Fall 2021
-
+--->
 
 Honors & Awards
 ======
 
 &emsp; | Institution | Year
 --------------------------------------------- | ------------------ | ---------
+Excellence Bonuses<br/>&emsp;for outstanding accomplishments and sustained performance excellence | FDIC               | 2025 
+Mission Achievement Awards<br/>&emsp;for forward-looking, sensible, and thoughtful revisions the 2025 FDIC Unbanked survey<br/>&emsp;and significant contributions to organizing the Consumer Research Symposium | FDIC               | 2024 
+Star Award<br/>&emsp;for efficient, no-nonsense leadership in successfully buliding and running seminar series   | FDIC               | 2024 
 TA Excellence Award                           | UCSD Econ          | 2020-2021
-Graduate Student Research Fellowship - $4 000 | UCSD Econ          | 2019
-Graduate Student Research Fellowship - $4 000 | UCSD Econ          | 2018
-Regents Fellowship - $13 000                  | UCSD               | 2017-2018
-Charles A O'Neil Award                        | Fordham University | 2017
+Graduate Student Research Fellowship          | UCSD Econ          | 2019
+Graduate Student Research Fellowship          | UCSD Econ          | 2018
+Regents Fellowship                            | UCSD               | 2017-2018
+Charles A O'Neil Award (most grade points)    | Fordham University | 2017
+Putnam Competition (above median scores)      | MAA                | 2015, 2016
 Dean's List                                   | Fordham University | 2015-2016, 2016-2017
 
+<!--
+Graduate Student Research Fellowship - $4 000 | UCSD Econ          | 2019
+Graduate Student Research Fellowship - $4 000 | UCSD Econ          | 2018
+Regents Fellowship - $13 000                  | UCSD               | 2017-2018 
+--->
 
 Professional Activities
 ======
@@ -241,6 +269,7 @@ Professional Activities
 
 Name | Location | Year
 ------------------------------------------------------ | ------------ | ----
+Loyola University of Chicago                           | Chicago      | 2023
 Vanderbilt Empirical and Applied Microeconomics (VEAM) | Nashville    | 2022
 UCSD Applied Lunch (x2)                                | San Diego    |
 UCSD Applied Lunch (x3)                                | San Diego    | 2021
@@ -252,6 +281,12 @@ UCSD Applied Lunch                                     | San Diego    |
 
 Name | Location | Year
 -------------------------------------------------- | ------------ | ----
+WEAI Annual Meeting*                               | San Francisco| 2025 
+Boulder Conference on Consumer Finance (poster)*   | Boulder      |
+PAA Annual Meeting*                                | Washington   |
+ACCI Annual Meeting*                               | Pittsburgh   |
+MEA Anual Meeeting*                                | Kansas City  |
+*withdrew for government efficiency                |              |
 APPAM                                              | Atlanta      | 2023
 WEAI Annual Meeting                                | San Diego    |
 Society of Economics of the Household              | Copenhagen   | 
@@ -274,16 +309,18 @@ WEAI Annual Meeting                                | Portland     | 2022
 **Conference Reviewer**<br>
 
 Name | Location | Year
--------------------------------------------------- | ------------ | ----
-APPAM                                              | Washington   | 2024
-ACCI                                               | Milwaukee    | 2024
-Consumer Research Symposium                        | Arlington    | 2024
+-------------------------------------------------- | --------------- | ----
+APPAM                                              | Seattle         | 2025
+ACCI                                               | Pittsburgh      | 2025
+APPAM                                              | National Harbor | 2024
+ACCI                                               | Milwaukee       | 2024
+Consumer Research Symposium                        | Arlington       | 2024
 
 
 **Referee Service**<br>
 [*Review of Economics of the Household*](https://www.springer.com/journal/11150), [*Scientific Reports*](https://www.nature.com/srep/), [*Social Forces*](https://academic.oup.com/sf)<br>
 
-<!---
+<!--
 **Other Service**<br>
 Organizer, 3rd Year Applied Group Seminar, 2019-2020<br>
 Member, Search Committee for the Dean of Rady School of Management, 2019<br>
@@ -313,29 +350,28 @@ Supervised by [James Hamilton](https://econweb.ucsd.edu/~jhamilton/) (Summer 201
 
 Other Information
 ======
-<!---
+<!--
 Citizenship: United States, Canada<br>
 Languages: English (Native Speaker), French (Advanced), Lithuanian (Beginner), Russian (Beginner)<br>
 --->
-Skills: Stata, R, quanteda, spacyr, Latex, Beamer, Git<br>
+Skills: R, Python, SQL, Stata, Matlab, NLP, quanteda, Latex, Git <br>
 <!---
 Hobbies: Running, Swimming, Cycling, Balletomane<br>
+--->
 Professional Classical Ballet Dancer:<br>
 &emsp;&emsp;Lietuvos Nacionalinis Operos ir Baleto Teatras, Vilnius, 2013-2015<br>
+<!--
 &emsp;&emsp;Cincinnati Ballet, Cincinnati, 2012-2013
---->
-
 
 References<br>
 ======
-<!-- 
 [Julie Cullen](https://econweb.ucsd.edu/~jbcullen/) &nbsp;&nbsp;  &emsp; [jbcullen@ucsd.edu](mailto:jbcullen@ucsd.edu) &nbsp;             &emsp; (858) 822-2056 <br>
 [Tom Vogl](http://tomvogl.com/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    &emsp; [tvgol@ucsd.edu   ](mailto:tvgol@ucsd.edu   ) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &emsp; (858) 534-4553 <br>
 [David Arnold](https://sites.google.com/site/davidhallarnold)     &emsp; [daarnold@ucsd.edu](mailto:daarnold@ucsd.edu)                    &emsp; (760) 415-0418 <br>
---->
 
 
 [Julie Cullen](https://econweb.ucsd.edu/~jbcullen/), [Tom Vogl](http://tomvogl.com/), [David Arnold](https://sites.google.com/site/davidhallarnold) <br>
+--->
 
 <!-- 
 Name | Email | Phone
